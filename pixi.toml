@@ -1,0 +1,11 @@
+[workspace]
+name = "behind-the-curtain"
+version = "0.1.0"
+channels = ["conda-forge"]
+platforms = ["osx-arm64"]
+[dependencies]
+python = "3.12.*"
+matplotlib-base = ">=3.8,<4"
+[tasks]
+figures = "python scripts/figures.py"
+verify = "python scripts/verify.py"
