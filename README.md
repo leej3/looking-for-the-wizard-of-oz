@@ -47,3 +47,7 @@ To update, compare each CSV against the new source tables, preserve its survey d
 November 8, 2026.
 Added the Oregon Issue 25 case using reported county filing figures, preliminary returns, and a direct developer statement.
 Bibliography entries 17–19 identify the source for each step.
+November 8, 2026.
+Added the Switch covenant litigation and Osawatomie legal fundraiser.
+Checked the Nevada district court order, developer response, public donor entries, and reporting on the Kansas petition.
+Bibliography entries 20–23 preserve the evidence trail.

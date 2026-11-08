@@ -183,6 +183,44 @@ The vote establishes that the better-funded side lost.
 How many minds either campaign changed, or whether anyone who already owned capacity benefited, remains unknown.
 [17–19]
 
+### Storey County, Nevada: an incumbent tried to restrict a competitor
+
+Switch operated the Tahoe-Reno 1 data center at its Citadel campus.
+When it negotiated its land purchase in 2015, it secured a covenant limiting how other parcels in the industrial park could be used.
+The district judge identified two interests behind that deal: reliable access to scarce power and water, and an advantage over potential competitors.
+When Tract acquired land for data-center development in 2023, Switch went to court in its own name to enforce the restriction.
+Here the incumbent, its existing capacity, the instrument it used, and the competitor it sought to constrain are all identifiable.
+The materials reviewed do not disclose Switch’s legal spending or any payment to a citizens’ group.
+[20, 21]
+
+The October 2025 district court ruling distinguished operating a competing multi-tenant facility, which rents capacity to multiple customers, from preparing land that could later host a permitted use.
+The covenant restricted the former on the Peru Shelf parcels.
+Tract could continue preparing the site.
+Switch therefore retained a specific competitive protection but failed to obtain the broader restriction it sought.
+This is evidence that an incumbent acted to limit entry.
+The order supplies no estimate of extra revenue for Switch or change in computing prices.
+[20, 21]
+
+### Osawatomie, Kansas: donors financed a fight for a vote
+
+In Osawatomie, residents pursued a local ordinance to prohibit high-impact data centers while the city was considering a campus.
+Their petition was certified.
+When the city did not put the question to voters, residents sued for ballot access.
+Their attorney defense fund publicly solicited donations for that action.
+Its platform lists, among other gifts, $50 from Dale and Donna Koontz Goddard and $50 from Karen Daulton.
+These are identifiable contributions toward a specific legal objective.
+The fundraiser supplies donor display names and amounts; it does not establish employment, beneficial ownership, or a complete account of litigation finance.
+The documented milestone is a certified petition and a legal challenge.
+The cited records establish neither a successful ban nor cancellation of the campus.
+[22, 23]
+
+Across the two cases, the public trail reaches different endpoints.
+In Nevada it leads directly to an operator exercising a contractual right against a potential rival.
+In Kansas it leads to named donors supporting residents’ legal action.
+I found no documented transfer from an incumbent operator to that campaign or to the Oregon restriction supporters described above.
+A disclosed contribution, paid invoice, grant agreement, or attributable testimony connecting an operator to the local effort would change that assessment.
+[17, 20–23]
+
 For the speech, the most revealing question may be: **If the next data center is stopped, who gains because they already control the last one?** Pair it with the converse: **If it is built, who gets a return and who has agreed to absorb the downside?** A principled assessment asks whether those exposed to risk had a voice, whether promised benefits are enforceable, and whether the people empowered to decide share the consequences.
 The audience can apply those questions whichever outcome they favor.
 
@@ -241,3 +279,16 @@ The audience can apply those questions whichever outcome they favor.
 19. Brianna Weaver, WTVG, November 5, 2026.
     [Vantage responds to Oregon’s vote](https://www.13abc.com/2026/11/05/vantage-data-centers-says-it-will-not-move-forward-after-oregon-voters-approve-issue-25-ban/).
     Interviews with petition organizers and statement obtained from the developer.
+20. Nevada First Judicial District Court, Storey County, case 23 RP 00005 1.
+    [Order on the parties’ cross-motions concerning the covenant](https://storage.googleapis.com/cdn.thenevadaindependent.com/2025/10/4cbefb86-23-rp-00005-1e-order-denying-pltf.cntrdfts-mtn-for-partial-summary-judgment-and-granting-defts.cntrclmnts-msj-on-nvlcos-cc-for-dec-jdgmnt.pdf).
+    See the opening summary and the court’s interpretation of the restricted uses.
+21. Data Center Dynamics.
+    [Switch’s campus and requested injunction](https://www.datacenterdynamics.com/en/news/switch-fails-in-bid-to-dismiss-tract-lawsuit-over-nevada-data-center-site/).
+    Tract, October 13, 2025.
+    [Developer’s account of the covenant judgment](https://www.tract.com/news/tract-achieves-major-court-victory-against-switch-in-reno-data-center-land-dispute/).
+22. Osawatomie United Data Center Attorney Defense Fund.
+    [Public fundraiser and donor entries](https://www.gofundme.com/f/Osawatomie-data-center-defense-fund).
+    Organizer account and platform-displayed gifts.
+23. KOFO Radio, September 2026.
+    [Osawatomie petition certified](https://kofo.com/2026/09/02/oz-petition-certified/).
+    [Reporting on residents’ ballot-access suit and proposed campus](https://www.aol.com/articles/rural-kansas-cities-vote-data-090000000.html).
