@@ -43,3 +43,7 @@ The primary text is authored Markdown; editing the interpretation is a human edi
    The source extracts are frozen at the research date; external articles may subsequently change.
 
 To update, compare each CSV against the new source tables, preserve its survey dates and wording, regenerate figures, review captions and interpretations, and record reviewed hashes in a new revision.
+
+November 8, 2026.
+Added the Oregon Issue 25 case using reported county filing figures, preliminary returns, and a direct developer statement.
+Bibliography entries 17–19 identify the source for each step.

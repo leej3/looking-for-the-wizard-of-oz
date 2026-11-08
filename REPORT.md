@@ -1,7 +1,7 @@
 # Who is the wizard behind the curtain?
 
 **Research brief for a Toastmasters discussion of AI, economic power, and fairness**  
-Evidence through November 7, 2026.
+Evidence through November 8, 2026.
 Working proposition: expanding U.S.
 AI data-center capacity would be good for the country.
 Working purpose: invite listeners to investigate what shapes their response, who gets to decide, and who gains under either outcome.
@@ -155,6 +155,34 @@ Demonstrating the last would require evidence such as lobbying disclosures, camp
 No evidence assembled here establishes that owners of existing capacity secretly organized opposition.
 [8, 9, 16]
 
+### Oregon, Ohio: who paid to keep a project alive?
+
+Jim and Laura Davis began by talking with friends and family about a proposed Vantage data center near Toledo.
+After retiring, they joined United Neighbors of Oregon and helped gather signatures.
+Petitioners secured a vote on Issue 25, a charter amendment prohibiting construction of facilities with aggregate monthly demand or peak load above 25 megawatts.
+Their organizing changed who could make the decision: every city voter could now weigh in.
+[18, 19]
+
+**The money.** Vantage gave $250,000 to Opportunity on the Bay to defeat the amendment. Four union groups contributed a combined $85,000 to a separate committee, Building Our Future Ohio, on the same side.
+Keeping the site available served the developer’s commercial interest; construction work also gave labor a plausible stake.
+Supporters of the restriction reported raising $4,600. The disclosed comparison is about 73 to 1 in contributions. The figures come from Cleveland.com’s reporting on county campaign-finance records. That account does not identify the individual donors behind the $4,600 or establish either side’s final advertising expenditures.
+[17]
+
+**The decision.** On November 3, voters approved the cap.
+The preliminary tally was 4,994 for and 3,235 against.
+On November 5, Vantage told local station WTVG that its project would not proceed as proposed.
+That statement connects a ballot decision to an actual development decision.
+Whether the company will build equivalent capacity elsewhere is a separate question.
+[18, 19]
+
+For the fairness discussion, different people exercised different kinds of power.
+Vantage and the unions could finance a campaign.
+The neighbors could put a question on the ballot.
+Voters could adopt a binding rule, and the developer could decide where to invest next.
+The vote establishes that the better-funded side lost.
+How many minds either campaign changed, or whether anyone who already owned capacity benefited, remains unknown.
+[17–19]
+
 For the speech, the most revealing question may be: **If the next data center is stopped, who gains because they already control the last one?** Pair it with the converse: **If it is built, who gets a return and who has agreed to absorb the downside?** A principled assessment asks whether those exposed to risk had a voice, whether promised benefits are enforceable, and whether the people empowered to decide share the consequences.
 The audience can apply those questions whichever outcome they favor.
 
@@ -204,3 +232,12 @@ The audience can apply those questions whichever outcome they favor.
 16. Food & Water Watch, June 11, 2026.
     [Coalition announces call for national moratorium](https://www.foodandwaterwatch.org/press/2026/06/11/500-groups-from-47-states-call-for-nationwide-ai-data-center-moratorium/) and [organization letter](https://www.foodandwaterwatch.org/Org-Letter_-National-Data-Center-Moratorium).
     Advocacy sources for stated positions.
+17. Anna Staver, Cleveland.com, November 4, 2026.
+    [Ohio voters reject data centers despite hundreds of thousands in opposition spending](https://www.cleveland.com/open/2026/11/ohio-voters-reject-data-centers-despite-hundreds-of-thousands-in-opposition-spending.html).
+    County filing figures as reported by the journalist.
+18. Ballotpedia.
+    [Oregon Issue 25](https://ballotpedia.org/Oregon%2C_Ohio%2C_Issue_25%2C_Prohibit_Data_Center_Construction_Over_25_Megawatts_Initiative_%28November_2026%29) and [2026 ballot measure returns](https://ballotpedia.org/2026_ballot_measure_election_results).
+    Measure wording and preliminary tally.
+19. Brianna Weaver, WTVG, November 5, 2026.
+    [Vantage responds to Oregon’s vote](https://www.13abc.com/2026/11/05/vantage-data-centers-says-it-will-not-move-forward-after-oregon-voters-approve-issue-25-ban/).
+    Interviews with petition organizers and statement obtained from the developer.
