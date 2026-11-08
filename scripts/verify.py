@@ -7,6 +7,7 @@ import sys
 
 root = Path(__file__).resolve().parents[1]
 subprocess.run([sys.executable, "scripts/figures.py"], cwd=root, check=True)
+subprocess.run([sys.executable, "scripts/state_poll.py"], cwd=root, check=True)
 for line in (root / "SHA256SUMS").read_text().splitlines():
     expected, filename = line.split("  ", 1)
     actual = hashlib.sha256((root / filename).read_bytes()).hexdigest()

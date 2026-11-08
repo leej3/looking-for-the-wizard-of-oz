@@ -117,6 +117,46 @@ The polls and the physical evidence address different scales and dates.
 It would be misleading to correlate national attitudes in 2026 with national electricity use in 2023 and infer causation.
 The comparison shows which fears have a measurable counterpart, where an impact is local, and where a forecast is doing the work.
 
+## Do voters in high-capacity or water-stressed states respond differently?
+
+The November 3, 2026 CNN/SSRS Senate and governor voter polls can be joined to the October 12 US Data Center Map snapshot by state. Texas illustrates why the questions should stay separate: 75% of respondents in its Senate poll opposed building a data center in their community. That figure measures a siting preference. A separate question asked how important AI and data centers were to the respondent’s vote. The downloadable [joined state table](data/state_joined.csv) preserves both questions alongside vote choice for age, race, gender, education, party identification, and community type.
+[33, 34]
+
+![Scatterplots of local opposition against operational MW, planned MW, and baseline water stress](figures/state_opposition.png)
+
+*Figure 3. Each dot is one state with a published Senate poll and a usable exposure value. The MW axes are logarithmic. Correlations are Spearman ranks with tied values averaged. Larger values indicate that states ranking higher on exposure also tended to rank higher on opposition.*
+
+| State exposure compared with opposition to a local facility | Senate ρ (states) | Governor ρ (states) |
+| --- | ---: | ---: |
+| Operational reported MW | 0.34 (32) | 0.15 (35) |
+| Under-construction reported MW | 0.30 (24) | 0.18 (28) |
+| Planned reported MW | 0.07 (30) | 0.00 (32) |
+| Mean site water stress | 0.17 (33) | −0.02 (35) |
+
+**Water stress** is DCMap’s average WRI Aqueduct 4.0 baseline annual water-stress score among matched records.
+Its 0–5 scale measures water demand relative to available renewable supply using a 1979–2019 historical baseline.
+Texas averaged 3.0 across 442 of 590 counted records; Virginia averaged 1.8 across 544 of 619.
+These are site-context averages.
+They do not measure a facility’s water consumption or the conditions at each respondent’s home.
+The observed associations give little support to a simple claim that greater baseline water stress predicts greater statewide opposition.
+[33]
+
+**Do the subgroup results tell a different story?** Across states with usable estimates, planned MW correlated with the Democratic share of votes among 18–29-year-olds at ρ = 0.48 in Senate polls (16 states) and 0.48 in governor polls (24).
+This describes candidate choice.
+The public tables do not give the cross-tab needed to infer that young voters opposed the developments.
+A more direct split is available by vote choice: water stress versus local opposition among Democratic-candidate voters yielded −0.23 in Senate polls (30 states) and 0.07 in governor polls (35); among Republican-candidate voters the figures were −0.02 (32) and −0.15 (34).
+Office samples overlap.
+Treat these as exploratory comparisons, not independent replications.
+[33, 34]
+
+**Sensitivity and limits.** Comparing planned project counts rather than disclosed MW gives ρ = 0.29 across 33 Senate states and 0.15 across 36 governor states.
+Counts include small and large projects equally, while MW estimates are incomplete and can reflect IT load, facility power, or ultimate buildout.
+Nationally, only 700 of 1,599 pipeline records had published power figures.
+State size, urbanization, existing partisan differences, candidate appeal, and which states held elections can all influence the comparisons.
+States receive equal weight; subgroup margins of error are unavailable here.
+No hypothesis tests or adjustments for multiple comparisons were performed.
+[33, 34]
+
 ## Who owns capacity, and who can change its value?
 
 Amazon, Microsoft, and Google have the broadest U.S. hyperscale footprints.
@@ -383,3 +423,9 @@ The audience can apply those questions whichever outcome they favor.
     [QTS and Compass withdraw from Virginia Digital Gateway](https://www.tomshardware.com/tech-industry/artificial-intelligence/blackstone-owned-qts-abandons-planned-worlds-largest-data-center-campus-after-years-of-lawsuits-2-100-acre-virginia-digital-gateway-project-dies-over-a-newspaper-notice-technicality).
 32. City of Oregon.
     [Industrial park proposal and developer’s full-buildout electricity estimate](https://oregonohio.org/oregon-industrial-park-information-on-data-centers/).
+33. Rahil Banthia.
+    [US Data Center Map](https://dcmap.us/), October 12, 2026 snapshot.
+    [Methodology and baseline water stress](https://dcmap.us/methodology/), [national summary](https://dcmap.us/agent-api/v2/summary.json), [Texas](https://dcmap.us/states/texas/), [Virginia](https://dcmap.us/states/virginia/).
+    Each analysis row links its state source.
+34. CNN/SSRS, November 3, 2026 election. [CNN Texas Senate voter-poll table](https://politics.api.cnn.io/results/exit-poll/2026-SG-TX.json), [AP’s shared voter-poll methods](https://www.ap.org/elections/our-role-in-the-u-s-elections/how-we-survey-the-electorate/).
+    State and office source URLs and timestamps accompany the retained estimates.

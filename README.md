@@ -57,3 +57,34 @@ Sources 24–29 document the scope and unresolved attribution of each award.
 November 8, 2026.
 Compared existing capacity and blocked development in Prince William County and Oregon, Ohio.
 Sources 30–32 distinguish marketed campus capacity, proposed electric load, and realized outcomes.
+
+## State-level election analysis
+
+On November 8, 2026 the state analysis captured the October 12 DCMap aggregate snapshot and selected public CNN/SSRS poll questions.
+The DCMap research skill and the Workshop database-lookup skill guided retrieval.
+Use `pixi run --locked python scripts/state_poll.py` for an offline rebuild; add `--fetch` only to refresh the inputs.
+Live sources can change.
+
+The exposure file includes 50 states, excluding DC and territories.
+The inventory probes one regular Senate and one governor main poll in each state.
+It found 33 Senate and 36 governor tables across 45 distinct states; IN, MO, ND, UT and WA lack both in this retrieval.
+Special elections, primaries, and national House polls are outside this comparison.
+Each poll record includes source time, source URL, and total race respondents.
+A missing percentage denotes an unavailable or suppressed estimate.
+Total respondents is never a subgroup sample size.
+
+The joined CSV has one row per state, office, question and answer.
+In the Texas Senate poll, 75% opposed a local facility, 65% of opponents backed the Democratic candidate, and 88% of Democratic-candidate voters opposed the facility.
+These correspond to pct_electorate, pct_voting_dem, and pct_among_dem_voters, respectively. pct_among_rep_voters uses the Republican candidate as its denominator.
+None of the latter three fields is a registered-party indicator.
+The Party ID question separately captures self-identification.
+State exposure metrics repeat across rows; each correlation uses each state at most once per office and category.
+
+The correlation file lists the included states for every estimate with at least eight usable states.
+Positive published MW totals qualify for MW analyses (zero disclosed MW cannot establish zero capacity); counts include zero.
+Water averages require a matched score.
+The exposure file includes record and additive-envelope coverage for power, plus the water match denominator.
+Counts are facility, campus, or project records.
+Additive power totals avoid duplicating shared envelopes, and stage labels describe October status.
+The two source extracts, inventory, joined table, correlations and figure are checksummed.
+Verification regenerates the analysis offline.

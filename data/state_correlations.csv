@@ -1,0 +1,518 @@
+office,question,answer,metric,exposure,states,rho,included_states
+GG,Age,18-29,pct_voting_dem,operational_mw,25,0.28,AK AZ CA CO CT FL GA IA IL KS MD ME MI MN NE NH NV NY OH OK OR PA SD TX WI
+GG,Age,18-29,pct_voting_dem,construction_mw,20,0.277,AZ CA CO FL GA IA IL KS MD MI MN NE NV NY OH OK OR PA TX WI
+GG,Age,18-29,pct_voting_dem,planned_mw,24,0.478,AK AZ CA CO CT FL GA IA IL KS MD ME MI MN NE NV NY OH OK OR PA SD TX WI
+GG,Age,18-29,pct_voting_dem,water_score,25,0.231,AK AZ CA CO CT FL GA IA IL KS MD ME MI MN NE NH NV NY OH OK OR PA SD TX WI
+GG,Age,18-29,pct_voting_dem,operational_n,25,0.362,AK AZ CA CO CT FL GA IA IL KS MD ME MI MN NE NH NV NY OH OK OR PA SD TX WI
+GG,Age,18-29,pct_voting_dem,construction_n,25,0.612,AK AZ CA CO CT FL GA IA IL KS MD ME MI MN NE NH NV NY OH OK OR PA SD TX WI
+GG,Age,18-29,pct_voting_dem,planned_n,25,0.505,AK AZ CA CO CT FL GA IA IL KS MD ME MI MN NE NH NV NY OH OK OR PA SD TX WI
+GG,Age,30-44,pct_voting_dem,operational_mw,33,0.172,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI
+GG,Age,30-44,pct_voting_dem,construction_mw,26,0.338,AL AR AZ CA CO FL GA IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI
+GG,Age,30-44,pct_voting_dem,planned_mw,31,0.267,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI
+GG,Age,30-44,pct_voting_dem,water_score,34,0.186,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI
+GG,Age,30-44,pct_voting_dem,operational_n,34,0.425,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI
+GG,Age,30-44,pct_voting_dem,construction_n,34,0.297,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI
+GG,Age,30-44,pct_voting_dem,planned_n,34,0.256,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI
+GG,Age,45-64,pct_voting_dem,operational_mw,35,0.282,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Age,45-64,pct_voting_dem,construction_mw,28,0.192,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Age,45-64,pct_voting_dem,planned_mw,32,0.206,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Age,45-64,pct_voting_dem,water_score,35,0.063,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Age,45-64,pct_voting_dem,operational_n,36,0.506,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Age,45-64,pct_voting_dem,construction_n,36,0.295,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Age,45-64,pct_voting_dem,planned_n,36,0.4,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Age,65 or older,pct_voting_dem,operational_mw,35,-0.052,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Age,65 or older,pct_voting_dem,construction_mw,28,0.093,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Age,65 or older,pct_voting_dem,planned_mw,32,-0.045,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Age,65 or older,pct_voting_dem,water_score,35,-0.016,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Age,65 or older,pct_voting_dem,operational_n,36,0.212,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Age,65 or older,pct_voting_dem,construction_n,36,-0.13,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Age,65 or older,pct_voting_dem,planned_n,36,0.012,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Education,College graduate,pct_voting_dem,operational_mw,35,0.106,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Education,College graduate,pct_voting_dem,construction_mw,28,0.126,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Education,College graduate,pct_voting_dem,planned_mw,32,0.064,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Education,College graduate,pct_voting_dem,water_score,35,-0.088,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Education,College graduate,pct_voting_dem,operational_n,36,0.352,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Education,College graduate,pct_voting_dem,construction_n,36,0.068,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Education,College graduate,pct_voting_dem,planned_n,36,0.229,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Education,No college degree,pct_voting_dem,operational_mw,35,0.212,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Education,No college degree,pct_voting_dem,construction_mw,28,0.284,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Education,No college degree,pct_voting_dem,planned_mw,32,0.222,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Education,No college degree,pct_voting_dem,water_score,35,0.159,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Education,No college degree,pct_voting_dem,operational_n,36,0.404,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Education,No college degree,pct_voting_dem,construction_n,36,0.224,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Education,No college degree,pct_voting_dem,planned_n,36,0.239,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Gender,Female,pct_voting_dem,operational_mw,35,0.176,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Gender,Female,pct_voting_dem,construction_mw,28,0.156,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Gender,Female,pct_voting_dem,planned_mw,32,0.087,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Gender,Female,pct_voting_dem,water_score,35,-0.007,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Gender,Female,pct_voting_dem,operational_n,36,0.421,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Gender,Female,pct_voting_dem,construction_n,36,0.162,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Gender,Female,pct_voting_dem,planned_n,36,0.27,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Gender,Male,pct_voting_dem,operational_mw,35,0.128,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Gender,Male,pct_voting_dem,construction_mw,28,0.27,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Gender,Male,pct_voting_dem,planned_mw,32,0.189,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Gender,Male,pct_voting_dem,water_score,35,0.095,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Gender,Male,pct_voting_dem,operational_n,36,0.359,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Gender,Male,pct_voting_dem,construction_n,36,0.104,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Gender,Male,pct_voting_dem,planned_n,36,0.199,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,operational_mw,35,0.11,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,construction_mw,28,0.268,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,planned_mw,32,0.238,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,water_score,35,0.327,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,operational_n,36,0.371,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,construction_n,36,0.273,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,planned_n,36,0.282,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,operational_mw,34,-0.0,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,construction_mw,28,0.163,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,planned_mw,31,-0.087,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,water_score,34,0.136,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,operational_n,35,0.06,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,construction_n,35,0.019,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,planned_n,35,0.036,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_electorate,operational_mw,35,0.096,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_electorate,construction_mw,28,0.294,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_electorate,planned_mw,32,0.106,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_electorate,water_score,35,0.221,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_electorate,operational_n,36,0.269,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_electorate,construction_n,36,0.195,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A major factor,pct_electorate,planned_n,36,0.154,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,operational_mw,35,-0.155,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,construction_mw,28,-0.1,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,planned_mw,32,-0.297,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,water_score,35,-0.35,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,operational_n,36,-0.093,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,construction_n,36,-0.198,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,planned_n,36,-0.257,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,operational_mw,34,0.076,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,construction_mw,28,-0.314,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,planned_mw,31,-0.253,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,water_score,34,-0.028,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,operational_n,35,0.129,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,construction_n,35,-0.239,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,planned_n,35,-0.149,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,operational_mw,35,-0.069,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,construction_mw,28,-0.272,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,planned_mw,32,-0.423,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,water_score,35,-0.155,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,operational_n,36,-0.06,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,construction_n,36,-0.223,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,planned_n,36,-0.317,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,operational_mw,35,0.053,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,construction_mw,28,-0.14,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,planned_mw,32,0.04,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,water_score,35,0.03,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,operational_n,36,-0.27,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,construction_n,36,-0.13,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,planned_n,36,-0.033,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,operational_mw,34,0.063,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,construction_mw,28,0.12,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,planned_mw,31,0.231,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,water_score,34,0.17,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,operational_n,35,-0.093,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,construction_n,35,0.197,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,planned_n,35,0.11,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_electorate,operational_mw,35,0.201,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_electorate,construction_mw,28,0.139,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_electorate,planned_mw,32,0.257,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_electorate,water_score,35,0.125,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_electorate,operational_n,36,-0.085,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_electorate,construction_n,36,0.169,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Crucial,pct_electorate,planned_n,36,0.174,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,operational_mw,35,0.01,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,construction_mw,28,-0.216,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,planned_mw,32,0.052,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,water_score,35,-0.242,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,operational_n,36,0.127,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,construction_n,36,-0.003,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,planned_n,36,0.151,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,operational_mw,34,-0.013,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,construction_mw,28,0.111,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,planned_mw,31,0.352,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,water_score,34,-0.23,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,operational_n,35,0.091,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,construction_n,35,0.139,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,planned_n,35,0.221,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,operational_mw,35,-0.17,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,construction_mw,28,-0.091,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,planned_mw,32,0.238,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,water_score,35,-0.196,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,operational_n,36,-0.027,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,construction_n,36,-0.005,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,planned_n,36,0.094,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Party ID,Democrat,pct_voting_dem,operational_mw,33,0.166,AK AL AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI
+GG,Party ID,Democrat,pct_voting_dem,construction_mw,26,0.145,AL AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI
+GG,Party ID,Democrat,pct_voting_dem,planned_mw,30,0.301,AK AL AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI
+GG,Party ID,Democrat,pct_voting_dem,water_score,33,0.376,AK AL AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI
+GG,Party ID,Democrat,pct_voting_dem,operational_n,34,0.409,AK AL AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI
+GG,Party ID,Democrat,pct_voting_dem,construction_n,34,0.49,AK AL AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI
+GG,Party ID,Democrat,pct_voting_dem,planned_n,34,0.465,AK AL AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI
+GG,Party ID,Independent,pct_voting_dem,operational_mw,35,0.084,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Party ID,Independent,pct_voting_dem,construction_mw,28,0.014,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Party ID,Independent,pct_voting_dem,planned_mw,32,0.327,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Party ID,Independent,pct_voting_dem,water_score,35,0.022,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Party ID,Independent,pct_voting_dem,operational_n,36,0.26,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Party ID,Independent,pct_voting_dem,construction_n,36,0.376,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Party ID,Independent,pct_voting_dem,planned_n,36,0.405,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Party ID,Republican,pct_voting_dem,operational_mw,34,0.036,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Party ID,Republican,pct_voting_dem,construction_mw,28,-0.04,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Party ID,Republican,pct_voting_dem,planned_mw,32,0.162,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Party ID,Republican,pct_voting_dem,water_score,34,-0.147,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI WY
+GG,Party ID,Republican,pct_voting_dem,operational_n,35,-0.029,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI WY
+GG,Party ID,Republican,pct_voting_dem,construction_n,35,0.01,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI WY
+GG,Party ID,Republican,pct_voting_dem,planned_n,35,0.106,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI WY
+GG,Race,Black,pct_voting_dem,operational_mw,16,0.134,AL AZ CA FL GA IL MD MI MN NV NY OH PA SC TN TX
+GG,Race,Black,pct_voting_dem,construction_mw,16,0.179,AL AZ CA FL GA IL MD MI MN NV NY OH PA SC TN TX
+GG,Race,Black,pct_voting_dem,planned_mw,16,0.31,AL AZ CA FL GA IL MD MI MN NV NY OH PA SC TN TX
+GG,Race,Black,pct_voting_dem,water_score,16,-0.115,AL AZ CA FL GA IL MD MI MN NV NY OH PA SC TN TX
+GG,Race,Black,pct_voting_dem,operational_n,16,0.207,AL AZ CA FL GA IL MD MI MN NV NY OH PA SC TN TX
+GG,Race,Black,pct_voting_dem,construction_n,16,-0.04,AL AZ CA FL GA IL MD MI MN NV NY OH PA SC TN TX
+GG,Race,Black,pct_voting_dem,planned_n,16,0.382,AL AZ CA FL GA IL MD MI MN NV NY OH PA SC TN TX
+GG,Race,Latino,pct_voting_dem,operational_mw,21,0.545,AK AZ CA CO CT FL GA IA IL KS MI MN NE NH NM NV NY OH PA TX WI
+GG,Race,Latino,pct_voting_dem,construction_mw,18,0.381,AZ CA CO FL GA IA IL KS MI MN NE NM NV NY OH PA TX WI
+GG,Race,Latino,pct_voting_dem,planned_mw,20,0.232,AK AZ CA CO CT FL GA IA IL KS MI MN NE NM NV NY OH PA TX WI
+GG,Race,Latino,pct_voting_dem,water_score,21,-0.057,AK AZ CA CO CT FL GA IA IL KS MI MN NE NH NM NV NY OH PA TX WI
+GG,Race,Latino,pct_voting_dem,operational_n,21,0.47,AK AZ CA CO CT FL GA IA IL KS MI MN NE NH NM NV NY OH PA TX WI
+GG,Race,Latino,pct_voting_dem,construction_n,21,0.309,AK AZ CA CO CT FL GA IA IL KS MI MN NE NH NM NV NY OH PA TX WI
+GG,Race,Latino,pct_voting_dem,planned_n,21,0.311,AK AZ CA CO CT FL GA IA IL KS MI MN NE NH NM NV NY OH PA TX WI
+GG,Race,Other racial/ethnic groups,pct_voting_dem,operational_mw,19,0.075,AK AZ CA FL GA HI IA ME MI MN NE NH NV NY OH OK PA TX WI
+GG,Race,Other racial/ethnic groups,pct_voting_dem,construction_mw,16,-0.143,AZ CA FL GA HI IA MI MN NE NV NY OH OK PA TX WI
+GG,Race,Other racial/ethnic groups,pct_voting_dem,planned_mw,17,-0.021,AK AZ CA FL GA IA ME MI MN NE NV NY OH OK PA TX WI
+GG,Race,Other racial/ethnic groups,pct_voting_dem,water_score,18,0.298,AK AZ CA FL GA IA ME MI MN NE NH NV NY OH OK PA TX WI
+GG,Race,Other racial/ethnic groups,pct_voting_dem,operational_n,19,0.453,AK AZ CA FL GA HI IA ME MI MN NE NH NV NY OH OK PA TX WI
+GG,Race,Other racial/ethnic groups,pct_voting_dem,construction_n,19,0.25,AK AZ CA FL GA HI IA ME MI MN NE NH NV NY OH OK PA TX WI
+GG,Race,Other racial/ethnic groups,pct_voting_dem,planned_n,19,0.366,AK AZ CA FL GA HI IA ME MI MN NE NH NV NY OH OK PA TX WI
+GG,Race,White,pct_voting_dem,operational_mw,35,-0.037,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Race,White,pct_voting_dem,construction_mw,28,0.083,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Race,White,pct_voting_dem,planned_mw,32,-0.027,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Race,White,pct_voting_dem,water_score,35,-0.054,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Race,White,pct_voting_dem,operational_n,36,0.199,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Race,White,pct_voting_dem,construction_n,36,-0.139,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Race,White,pct_voting_dem,planned_n,36,0.002,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Type of area,Rural,pct_voting_dem,operational_mw,32,-0.212,AK AL AR AZ CA CO FL GA HI IA ID IL KS ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Type of area,Rural,pct_voting_dem,construction_mw,27,-0.045,AL AR AZ CA CO FL GA HI IA ID IL KS MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Type of area,Rural,pct_voting_dem,planned_mw,29,0.063,AK AL AR AZ CA CO FL GA IA ID IL KS ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Type of area,Rural,pct_voting_dem,water_score,31,-0.122,AK AL AR AZ CA CO FL GA IA ID IL KS ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Type of area,Rural,pct_voting_dem,operational_n,32,-0.033,AK AL AR AZ CA CO FL GA HI IA ID IL KS ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Type of area,Rural,pct_voting_dem,construction_n,32,-0.296,AK AL AR AZ CA CO FL GA HI IA ID IL KS ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Type of area,Rural,pct_voting_dem,planned_n,32,-0.196,AK AL AR AZ CA CO FL GA HI IA ID IL KS ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Type of area,Small town,pct_voting_dem,operational_mw,34,-0.191,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,Type of area,Small town,pct_voting_dem,construction_mw,27,0.112,AL AR AZ CA CO FL GA IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,Type of area,Small town,pct_voting_dem,planned_mw,32,-0.113,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,Type of area,Small town,pct_voting_dem,water_score,35,-0.061,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Type of area,Small town,pct_voting_dem,operational_n,35,0.004,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Type of area,Small town,pct_voting_dem,construction_n,35,-0.298,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Type of area,Small town,pct_voting_dem,planned_n,35,-0.154,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,Type of area,Suburban,pct_voting_dem,operational_mw,33,0.122,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX WI
+GG,Type of area,Suburban,pct_voting_dem,construction_mw,27,0.266,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI
+GG,Type of area,Suburban,pct_voting_dem,planned_mw,31,0.208,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI
+GG,Type of area,Suburban,pct_voting_dem,water_score,33,-0.093,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI
+GG,Type of area,Suburban,pct_voting_dem,operational_n,34,0.296,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI
+GG,Type of area,Suburban,pct_voting_dem,construction_n,34,0.306,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI
+GG,Type of area,Suburban,pct_voting_dem,planned_n,34,0.27,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI
+GG,Type of area,Urban,pct_voting_dem,operational_mw,32,0.276,AK AL AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX WI
+GG,Type of area,Urban,pct_voting_dem,construction_mw,26,0.4,AL AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI
+GG,Type of area,Urban,pct_voting_dem,planned_mw,30,0.294,AK AL AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI
+GG,Type of area,Urban,pct_voting_dem,water_score,32,-0.116,AK AL AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI
+GG,Type of area,Urban,pct_voting_dem,operational_n,33,0.348,AK AL AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI
+GG,Type of area,Urban,pct_voting_dem,construction_n,33,0.368,AK AL AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI
+GG,Type of area,Urban,pct_voting_dem,planned_n,33,0.364,AK AL AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX WI
+GG,View of building a data center in your community,Favor,pct_among_dem_voters,operational_mw,35,0.016,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_among_dem_voters,construction_mw,28,0.055,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,View of building a data center in your community,Favor,pct_among_dem_voters,planned_mw,32,0.004,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,View of building a data center in your community,Favor,pct_among_dem_voters,water_score,35,-0.207,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_among_dem_voters,operational_n,36,0.22,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_among_dem_voters,construction_n,36,0.094,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_among_dem_voters,planned_n,36,0.091,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_among_rep_voters,operational_mw,34,0.061,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_among_rep_voters,construction_mw,28,-0.162,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,View of building a data center in your community,Favor,pct_among_rep_voters,planned_mw,31,0.136,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,View of building a data center in your community,Favor,pct_among_rep_voters,water_score,34,0.183,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_among_rep_voters,operational_n,35,0.131,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_among_rep_voters,construction_n,35,0.143,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_among_rep_voters,planned_n,35,-0.03,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_electorate,operational_mw,35,-0.063,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_electorate,construction_mw,28,-0.098,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,View of building a data center in your community,Favor,pct_electorate,planned_mw,32,0.14,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,View of building a data center in your community,Favor,pct_electorate,water_score,35,0.058,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_electorate,operational_n,36,-0.039,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_electorate,construction_n,36,0.095,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Favor,pct_electorate,planned_n,36,-0.038,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_dem_voters,operational_mw,35,-0.013,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_dem_voters,construction_mw,28,-0.153,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,View of building a data center in your community,Oppose,pct_among_dem_voters,planned_mw,32,0.046,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,View of building a data center in your community,Oppose,pct_among_dem_voters,water_score,35,0.07,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_dem_voters,operational_n,36,-0.123,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_dem_voters,construction_n,36,-0.06,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_dem_voters,planned_n,36,-0.017,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_rep_voters,operational_mw,34,-0.006,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_rep_voters,construction_mw,28,0.185,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,View of building a data center in your community,Oppose,pct_among_rep_voters,planned_mw,31,-0.112,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,View of building a data center in your community,Oppose,pct_among_rep_voters,water_score,34,-0.148,AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_rep_voters,operational_n,35,-0.07,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_rep_voters,construction_n,35,-0.091,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_among_rep_voters,planned_n,35,0.093,AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_electorate,operational_mw,35,0.152,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_electorate,construction_mw,28,0.179,AL AR AZ CA CO FL GA HI IA ID IL KS MD MI MN NE NM NV NY OH OK OR PA SC TN TX WI WY
+GG,View of building a data center in your community,Oppose,pct_electorate,planned_mw,32,-0.0,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NM NV NY OH OK OR PA SC SD TN TX WI WY
+GG,View of building a data center in your community,Oppose,pct_electorate,water_score,35,-0.02,AK AL AR AZ CA CO CT FL GA IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_electorate,operational_n,36,0.143,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_electorate,construction_n,36,0.017,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+GG,View of building a data center in your community,Oppose,pct_electorate,planned_n,36,0.152,AK AL AR AZ CA CO CT FL GA HI IA ID IL KS MA MD ME MI MN NE NH NM NV NY OH OK OR PA RI SC SD TN TX VT WI WY
+SG,Age,18-29,pct_voting_dem,operational_mw,17,0.214,AK CO GA IA IL KS KY ME MI MN NC NH NJ OK OR TX VA
+SG,Age,18-29,pct_voting_dem,construction_mw,14,0.242,CO GA IA IL KS KY MI MN NC NJ OK OR TX VA
+SG,Age,18-29,pct_voting_dem,planned_mw,16,0.476,AK CO GA IA IL KS KY ME MI MN NC NJ OK OR TX VA
+SG,Age,18-29,pct_voting_dem,water_score,17,0.089,AK CO GA IA IL KS KY ME MI MN NC NH NJ OK OR TX VA
+SG,Age,18-29,pct_voting_dem,operational_n,17,0.148,AK CO GA IA IL KS KY ME MI MN NC NH NJ OK OR TX VA
+SG,Age,18-29,pct_voting_dem,construction_n,17,0.393,AK CO GA IA IL KS KY ME MI MN NC NH NJ OK OR TX VA
+SG,Age,18-29,pct_voting_dem,planned_n,17,0.398,AK CO GA IA IL KS KY ME MI MN NC NH NJ OK OR TX VA
+SG,Age,30-44,pct_voting_dem,operational_mw,27,0.247,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV
+SG,Age,30-44,pct_voting_dem,construction_mw,21,0.241,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA
+SG,Age,30-44,pct_voting_dem,planned_mw,26,0.049,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV
+SG,Age,30-44,pct_voting_dem,water_score,28,0.609,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV
+SG,Age,30-44,pct_voting_dem,operational_n,28,0.292,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV
+SG,Age,30-44,pct_voting_dem,construction_n,28,0.107,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV
+SG,Age,30-44,pct_voting_dem,planned_n,28,-0.006,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV
+SG,Age,45-64,pct_voting_dem,operational_mw,29,0.289,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Age,45-64,pct_voting_dem,construction_mw,22,0.186,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Age,45-64,pct_voting_dem,planned_mw,27,0.022,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Age,45-64,pct_voting_dem,water_score,30,0.356,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Age,45-64,pct_voting_dem,operational_n,30,0.375,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Age,45-64,pct_voting_dem,construction_n,30,0.05,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Age,45-64,pct_voting_dem,planned_n,30,0.145,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Age,65 or older,pct_voting_dem,operational_mw,29,0.059,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Age,65 or older,pct_voting_dem,construction_mw,22,0.123,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Age,65 or older,pct_voting_dem,planned_mw,27,-0.103,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Age,65 or older,pct_voting_dem,water_score,30,0.248,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Age,65 or older,pct_voting_dem,operational_n,30,0.267,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Age,65 or older,pct_voting_dem,construction_n,30,-0.182,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Age,65 or older,pct_voting_dem,planned_n,30,-0.062,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Education,College graduate,pct_voting_dem,operational_mw,29,0.109,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Education,College graduate,pct_voting_dem,construction_mw,22,0.231,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Education,College graduate,pct_voting_dem,planned_mw,27,-0.024,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Education,College graduate,pct_voting_dem,water_score,30,0.204,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Education,College graduate,pct_voting_dem,operational_n,30,0.253,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Education,College graduate,pct_voting_dem,construction_n,30,-0.142,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Education,College graduate,pct_voting_dem,planned_n,30,0.018,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Education,No college degree,pct_voting_dem,operational_mw,29,0.242,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Education,No college degree,pct_voting_dem,construction_mw,22,0.218,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Education,No college degree,pct_voting_dem,planned_mw,27,0.063,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Education,No college degree,pct_voting_dem,water_score,30,0.436,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Education,No college degree,pct_voting_dem,operational_n,30,0.375,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Education,No college degree,pct_voting_dem,construction_n,30,0.01,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Education,No college degree,pct_voting_dem,planned_n,30,0.072,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Gender,Female,pct_voting_dem,operational_mw,29,0.232,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Gender,Female,pct_voting_dem,construction_mw,22,0.182,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Gender,Female,pct_voting_dem,planned_mw,27,-0.039,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Gender,Female,pct_voting_dem,water_score,30,0.372,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Gender,Female,pct_voting_dem,operational_n,30,0.345,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Gender,Female,pct_voting_dem,construction_n,30,-0.023,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Gender,Female,pct_voting_dem,planned_n,30,0.063,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Gender,Male,pct_voting_dem,operational_mw,29,0.138,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Gender,Male,pct_voting_dem,construction_mw,22,0.264,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Gender,Male,pct_voting_dem,planned_mw,27,0.073,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Gender,Male,pct_voting_dem,water_score,30,0.326,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Gender,Male,pct_voting_dem,operational_n,30,0.326,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Gender,Male,pct_voting_dem,construction_n,30,-0.097,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Gender,Male,pct_voting_dem,planned_n,30,0.026,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,operational_mw,29,-0.081,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,construction_mw,22,0.049,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,planned_mw,27,0.075,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,water_score,30,0.068,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,operational_n,30,0.156,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,construction_n,30,0.017,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_dem_voters,planned_n,30,-0.034,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,operational_mw,31,-0.027,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,construction_mw,24,0.305,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,planned_mw,29,0.038,AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,water_score,32,0.033,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,operational_n,32,-0.182,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,construction_n,32,-0.065,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_among_rep_voters,planned_n,32,-0.128,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_electorate,operational_mw,32,-0.038,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_electorate,construction_mw,24,0.418,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_electorate,planned_mw,30,0.042,AK AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_electorate,water_score,33,0.208,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_electorate,operational_n,33,0.067,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_electorate,construction_n,33,-0.032,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A major factor,pct_electorate,planned_n,33,-0.12,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,operational_mw,29,0.131,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,construction_mw,22,0.207,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,planned_mw,27,-0.244,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,water_score,30,-0.052,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,operational_n,30,0.263,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,construction_n,30,0.052,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_dem_voters,planned_n,30,0.099,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,operational_mw,31,0.136,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,construction_mw,24,-0.266,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,planned_mw,29,-0.165,AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,water_score,32,-0.069,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,operational_n,32,0.241,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,construction_n,32,-0.113,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_among_rep_voters,planned_n,32,-0.123,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,operational_mw,32,0.2,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,construction_mw,24,-0.267,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,planned_mw,30,-0.292,AK AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,water_score,33,-0.177,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,operational_n,33,0.26,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,construction_n,33,0.018,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,A minor factor,pct_electorate,planned_n,33,-0.049,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,operational_mw,29,0.04,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,construction_mw,22,-0.232,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,planned_mw,27,0.125,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,water_score,30,-0.22,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,operational_n,30,-0.254,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,construction_n,30,-0.098,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_dem_voters,planned_n,30,-0.011,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,operational_mw,31,0.049,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,construction_mw,24,0.252,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,planned_mw,29,0.427,AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,water_score,32,-0.075,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,operational_n,32,0.137,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,construction_n,32,0.375,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_among_rep_voters,planned_n,32,0.368,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_electorate,operational_mw,32,0.102,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_electorate,construction_mw,24,0.072,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_electorate,planned_mw,30,0.259,AK AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_electorate,water_score,33,0.052,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_electorate,operational_n,33,-0.106,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_electorate,construction_n,33,0.039,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Crucial,pct_electorate,planned_n,33,0.127,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,operational_mw,29,0.059,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,construction_mw,22,0.043,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,planned_mw,27,0.036,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,water_score,30,-0.026,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,operational_n,30,0.14,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,construction_n,30,0.318,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_dem_voters,planned_n,30,0.234,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,operational_mw,31,0.022,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,construction_mw,24,-0.178,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,planned_mw,29,0.083,AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,water_score,32,-0.062,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,operational_n,32,-0.046,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,construction_n,32,-0.006,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_among_rep_voters,planned_n,32,0.182,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,operational_mw,32,-0.091,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,construction_mw,24,-0.285,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,planned_mw,30,0.001,AK AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,water_score,33,-0.192,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,operational_n,33,-0.088,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,construction_n,33,0.064,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Importance of AI & data centers to your vote,Not a factor,pct_electorate,planned_n,33,0.215,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,Party ID,Democrat,pct_voting_dem,operational_mw,26,0.413,AK AL CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA
+SG,Party ID,Democrat,pct_voting_dem,construction_mw,20,0.06,AL CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA
+SG,Party ID,Democrat,pct_voting_dem,planned_mw,24,0.292,AK AL CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA
+SG,Party ID,Democrat,pct_voting_dem,water_score,27,0.373,AK AL CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Party ID,Democrat,pct_voting_dem,operational_n,27,0.339,AK AL CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Party ID,Democrat,pct_voting_dem,construction_n,27,0.446,AK AL CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Party ID,Democrat,pct_voting_dem,planned_n,27,0.404,AK AL CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Party ID,Independent,pct_voting_dem,operational_mw,29,0.165,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Party ID,Independent,pct_voting_dem,construction_mw,22,0.109,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Party ID,Independent,pct_voting_dem,planned_mw,27,0.262,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Party ID,Independent,pct_voting_dem,water_score,30,0.29,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Party ID,Independent,pct_voting_dem,operational_n,30,0.246,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Party ID,Independent,pct_voting_dem,construction_n,30,0.242,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Party ID,Independent,pct_voting_dem,planned_n,30,0.247,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Party ID,Republican,pct_voting_dem,operational_mw,29,0.096,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Party ID,Republican,pct_voting_dem,construction_mw,22,0.151,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Party ID,Republican,pct_voting_dem,planned_mw,27,0.176,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Party ID,Republican,pct_voting_dem,water_score,30,0.309,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Party ID,Republican,pct_voting_dem,operational_n,30,0.095,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Party ID,Republican,pct_voting_dem,construction_n,30,0.076,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Party ID,Republican,pct_voting_dem,planned_n,30,-0.135,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Race,Black,pct_voting_dem,operational_mw,13,0.38,AL GA IL LA MI MN MS NC NJ SC TN TX VA
+SG,Race,Black,pct_voting_dem,construction_mw,13,0.297,AL GA IL LA MI MN MS NC NJ SC TN TX VA
+SG,Race,Black,pct_voting_dem,planned_mw,13,0.217,AL GA IL LA MI MN MS NC NJ SC TN TX VA
+SG,Race,Black,pct_voting_dem,water_score,13,0.243,AL GA IL LA MI MN MS NC NJ SC TN TX VA
+SG,Race,Black,pct_voting_dem,operational_n,13,0.205,AL GA IL LA MI MN MS NC NJ SC TN TX VA
+SG,Race,Black,pct_voting_dem,construction_n,13,0.12,AL GA IL LA MI MN MS NC NJ SC TN TX VA
+SG,Race,Black,pct_voting_dem,planned_n,13,0.305,AL GA IL LA MI MN MS NC NJ SC TN TX VA
+SG,Race,Latino,pct_voting_dem,operational_mw,13,0.717,AK CO GA IA IL KS MI MN NC NH NJ NM TX
+SG,Race,Latino,pct_voting_dem,construction_mw,11,0.242,CO GA IA IL KS MI MN NC NJ NM TX
+SG,Race,Latino,pct_voting_dem,planned_mw,12,0.326,AK CO GA IA IL KS MI MN NC NJ NM TX
+SG,Race,Latino,pct_voting_dem,water_score,13,0.67,AK CO GA IA IL KS MI MN NC NH NJ NM TX
+SG,Race,Latino,pct_voting_dem,operational_n,13,0.753,AK CO GA IA IL KS MI MN NC NH NJ NM TX
+SG,Race,Latino,pct_voting_dem,construction_n,13,0.637,AK CO GA IA IL KS MI MN NC NH NJ NM TX
+SG,Race,Latino,pct_voting_dem,planned_n,13,0.361,AK CO GA IA IL KS MI MN NC NH NJ NM TX
+SG,Race,Other racial/ethnic groups,pct_voting_dem,operational_mw,10,0.201,AK GA IA ME MI MN NC NH OK TX
+SG,Race,Other racial/ethnic groups,pct_voting_dem,planned_mw,9,-0.435,AK GA IA ME MI MN NC OK TX
+SG,Race,Other racial/ethnic groups,pct_voting_dem,water_score,10,0.31,AK GA IA ME MI MN NC NH OK TX
+SG,Race,Other racial/ethnic groups,pct_voting_dem,operational_n,10,0.486,AK GA IA ME MI MN NC NH OK TX
+SG,Race,Other racial/ethnic groups,pct_voting_dem,construction_n,10,0.355,AK GA IA ME MI MN NC NH OK TX
+SG,Race,Other racial/ethnic groups,pct_voting_dem,planned_n,10,0.407,AK GA IA ME MI MN NC NH OK TX
+SG,Race,White,pct_voting_dem,operational_mw,29,-0.017,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Race,White,pct_voting_dem,construction_mw,22,0.014,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Race,White,pct_voting_dem,planned_mw,27,-0.065,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Race,White,pct_voting_dem,water_score,30,0.187,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Race,White,pct_voting_dem,operational_n,30,0.239,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Race,White,pct_voting_dem,construction_n,30,-0.269,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Race,White,pct_voting_dem,planned_n,30,-0.094,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Type of area,Rural,pct_voting_dem,operational_mw,26,-0.128,AK AL AR CO GA IA IL KS KY LA ME MI MN MS MT NC NH NM OK OR SC TN TX VA WV WY
+SG,Type of area,Rural,pct_voting_dem,construction_mw,21,-0.065,AL AR CO GA IA IL KS KY LA MI MN MS NC NM OK OR SC TN TX VA WY
+SG,Type of area,Rural,pct_voting_dem,planned_mw,25,-0.138,AK AL AR CO GA IA IL KS KY LA ME MI MN MS MT NC NM OK OR SC TN TX VA WV WY
+SG,Type of area,Rural,pct_voting_dem,water_score,26,-0.067,AK AL AR CO GA IA IL KS KY LA ME MI MN MS MT NC NH NM OK OR SC TN TX VA WV WY
+SG,Type of area,Rural,pct_voting_dem,operational_n,26,0.019,AK AL AR CO GA IA IL KS KY LA ME MI MN MS MT NC NH NM OK OR SC TN TX VA WV WY
+SG,Type of area,Rural,pct_voting_dem,construction_n,26,-0.243,AK AL AR CO GA IA IL KS KY LA ME MI MN MS MT NC NH NM OK OR SC TN TX VA WV WY
+SG,Type of area,Rural,pct_voting_dem,planned_n,26,-0.184,AK AL AR CO GA IA IL KS KY LA ME MI MN MS MT NC NH NM OK OR SC TN TX VA WV WY
+SG,Type of area,Small town,pct_voting_dem,operational_mw,29,-0.149,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,Type of area,Small town,pct_voting_dem,construction_mw,22,-0.08,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,Type of area,Small town,pct_voting_dem,planned_mw,27,-0.169,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,Type of area,Small town,pct_voting_dem,water_score,30,0.275,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Type of area,Small town,pct_voting_dem,operational_n,30,-0.003,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Type of area,Small town,pct_voting_dem,construction_n,30,-0.367,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Type of area,Small town,pct_voting_dem,planned_n,30,-0.251,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,Type of area,Suburban,pct_voting_dem,operational_mw,27,0.294,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA
+SG,Type of area,Suburban,pct_voting_dem,construction_mw,21,0.235,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA
+SG,Type of area,Suburban,pct_voting_dem,planned_mw,25,0.151,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA
+SG,Type of area,Suburban,pct_voting_dem,water_score,28,0.324,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Type of area,Suburban,pct_voting_dem,operational_n,28,0.343,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Type of area,Suburban,pct_voting_dem,construction_n,28,0.127,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Type of area,Suburban,pct_voting_dem,planned_n,28,0.21,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Type of area,Urban,pct_voting_dem,operational_mw,25,0.406,AK AL CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA
+SG,Type of area,Urban,pct_voting_dem,construction_mw,20,0.426,AL CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA
+SG,Type of area,Urban,pct_voting_dem,planned_mw,24,0.064,AK AL CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA
+SG,Type of area,Urban,pct_voting_dem,water_score,26,0.222,AK AL CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Type of area,Urban,pct_voting_dem,operational_n,26,0.399,AK AL CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Type of area,Urban,pct_voting_dem,construction_n,26,0.31,AK AL CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,Type of area,Urban,pct_voting_dem,planned_n,26,0.344,AK AL CO GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA
+SG,View of building a data center in your community,Favor,pct_among_dem_voters,operational_mw,29,0.07,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_dem_voters,construction_mw,22,0.019,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,View of building a data center in your community,Favor,pct_among_dem_voters,planned_mw,27,-0.101,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_dem_voters,water_score,30,0.242,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_dem_voters,operational_n,30,0.035,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_dem_voters,construction_n,30,0.255,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_dem_voters,planned_n,30,-0.044,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_rep_voters,operational_mw,31,-0.296,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_rep_voters,construction_mw,24,-0.202,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,View of building a data center in your community,Favor,pct_among_rep_voters,planned_mw,29,0.013,AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_rep_voters,water_score,32,0.071,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_rep_voters,operational_n,32,-0.206,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_rep_voters,construction_n,32,-0.08,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_among_rep_voters,planned_n,32,-0.32,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_electorate,operational_mw,32,-0.284,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_electorate,construction_mw,24,-0.277,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,View of building a data center in your community,Favor,pct_electorate,planned_mw,30,0.001,AK AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_electorate,water_score,33,-0.149,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_electorate,operational_n,33,-0.32,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_electorate,construction_n,33,0.045,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Favor,pct_electorate,planned_n,33,-0.189,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_dem_voters,operational_mw,29,-0.06,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR SC TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_dem_voters,construction_mw,22,-0.103,AL AR CO GA IA IL KS KY LA MI MN MS NC NJ NM OK OR SC TN TX VA WY
+SG,View of building a data center in your community,Oppose,pct_among_dem_voters,planned_mw,27,0.124,AK AL AR CO GA IA IL KS KY LA MA ME MI MN MS MT NC NJ NM OK OR SC TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_dem_voters,water_score,30,-0.229,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_dem_voters,operational_n,30,-0.02,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_dem_voters,construction_n,30,-0.222,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_dem_voters,planned_n,30,0.065,AK AL AR CO DE GA IA IL KS KY LA MA ME MI MN MS MT NC NH NJ NM OK OR RI SC TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_rep_voters,operational_mw,31,0.353,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_rep_voters,construction_mw,24,0.254,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,View of building a data center in your community,Oppose,pct_among_rep_voters,planned_mw,29,0.013,AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_rep_voters,water_score,32,-0.02,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_rep_voters,operational_n,32,0.276,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_rep_voters,construction_n,32,0.099,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_among_rep_voters,planned_n,32,0.39,AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_electorate,operational_mw,32,0.342,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_electorate,construction_mw,24,0.296,AL AR CO GA IA ID IL KS KY LA MI MN MS NC NE NJ NM OK OR SC TN TX VA WY
+SG,View of building a data center in your community,Oppose,pct_electorate,planned_mw,30,0.073,AK AL AR CO GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NJ NM OK OR SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_electorate,water_score,33,0.168,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_electorate,operational_n,33,0.375,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_electorate,construction_n,33,0.022,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
+SG,View of building a data center in your community,Oppose,pct_electorate,planned_n,33,0.288,AK AL AR CO DE GA IA ID IL KS KY LA MA ME MI MN MS MT NC NE NH NJ NM OK OR RI SC SD TN TX VA WV WY
