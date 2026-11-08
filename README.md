@@ -51,3 +51,6 @@ November 8, 2026.
 Added the Switch covenant litigation and Osawatomie legal fundraiser.
 Checked the Nevada district court order, developer response, public donor entries, and reporting on the Kansas petition.
 Bibliography entries 20–23 preserve the evidence trail.
+November 8, 2026.
+Compared grantmaker purpose statements, recipient disclosures, and site-specific actions in New York, Pennsylvania, and Virginia.
+Sources 24–29 document the scope and unresolved attribution of each award.

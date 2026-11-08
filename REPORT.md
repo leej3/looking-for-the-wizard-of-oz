@@ -221,6 +221,42 @@ I found no documented transfer from an incumbent operator to that campaign or to
 A disclosed contribution, paid invoice, grant agreement, or attributable testimony connecting an operator to the local effort would change that assessment.
 [17, 20–23]
 
+### Following grants from the donor to the campaign
+
+**The national moratorium organizer.** Food & Water Watch convened the coalition and publishes its sign-on letter.
+It says it declines corporate donations and accepts gifts through donor-advised funds.
+Its public campaigning includes criticism of Stream Data Centers’ proposal at the STAMP site in Genesee County, New York.
+A grantmaker’s ledger gives us a way to test the tempting inference that a grant to the organizer paid for that work.
+In 2026 the Environmental Endowment for New Jersey awarded Food & Water Watch $19,000 for work on pipelines and liquefied natural gas facilities.
+Counting it as financing for the STAMP campaign would misstate the published purpose.
+The organization’s donor policy alone cannot identify who supplied every intermediary’s funds.
+[16, 24, 25]
+
+**A grant expressly for data-center work.** The same endowment separately awarded Delaware Riverkeeper Network $19,000 for watershed protection in connection with hyperscale data centers.
+The network published a June 25 joint zoning comment on the proposed facility at 900 Conshohocken Road in Plymouth Township, Pennsylvania.
+It also offered to reimburse travel and other costs for an October 6 Harrisburg rally opposing data centers.
+This establishes a grant for the subject, a named site, and a practical way of supporting organizing.
+The award lists no site or rally, and the public records reviewed do not allocate its dollars to either activity.
+The endowment traces its origins to water-pollution settlements.
+No document reviewed traces this award back to a data-center operator.
+[25, 26]
+
+**An operator and a specific project opponent.** Google owns and operates data centers in Virginia, including in Prince William County.
+The American Battlefield Trust identifies Google as a provider of in-kind search advertising; its 2019 annual report already acknowledged the award.
+In January 2024, the Trust and nine residents sued to overturn the rezonings for the Prince William Digital Gateway near Manassas National Battlefield Park.
+The National Parks Conservation Association subsequently reported that the project had ended.
+The Trust’s public records establish both the operator’s support for the organization and the organization’s action against the project.
+They disclose no Gateway ad paid for with the credit, cash transfer for litigation, or instruction from Google.
+A campaign export showing credit charged to an ad directing people to the Gateway appeal would establish project-level support in kind.
+Even that would leave the question of who chose the message open.
+This was a site-specific preservation fight; the sources cited here do not identify the Trust as a national moratorium organizer.
+[27–29]
+
+The two trails stop at different points.
+In Pennsylvania the grantmaker named the issue but did not identify an incumbent source for the grant.
+In Virginia the incumbent and grantee are identifiable, but the use of the grant on the named project remains unverified.
+Neither trail establishes that an existing operator paid an intermediary to stop someone else’s facility.
+
 For the speech, the most revealing question may be: **If the next data center is stopped, who gains because they already control the last one?** Pair it with the converse: **If it is built, who gets a return and who has agreed to absorb the downside?** A principled assessment asks whether those exposed to risk had a voice, whether promised benefits are enforceable, and whether the people empowered to decide share the consequences.
 The audience can apply those questions whichever outcome they favor.
 
@@ -292,3 +328,20 @@ The audience can apply those questions whichever outcome they favor.
 23. KOFO Radio, September 2026.
     [Osawatomie petition certified](https://kofo.com/2026/09/02/oz-petition-certified/).
     [Reporting on residents’ ballot-access suit and proposed campus](https://www.aol.com/articles/rural-kansas-cities-vote-data-090000000.html).
+24. Food & Water Watch.
+    [Giving policy](https://www.foodandwaterwatch.org/get-involved/ways-to-give/) and [New York’s Data Center Crisis](https://www.foodandwaterwatch.org/wp-content/uploads/2026/04/FSW_2604_NYDataCenter.pdf).
+    Organizational policy and named development.
+25. Environmental Endowment for New Jersey.
+    [2026 grants and their stated purposes](https://www.eenj.org/home/grant-list) and [history of the endowment](https://sites.google.com/a/eenj.org/www/home/about-eenj).
+26. Delaware Riverkeeper Network.
+    [Project comments and dates](https://delawareriverkeeper.org/issues/climate-change-fossil-fuels-and-energy/data-centers/).
+    Better Path Coalition.
+    [October rally and travel mini-grant offer](https://www.betterpathcoalition.org/nodatacenters).
+27. Google.
+    [Virginia data-center operations](https://www.datacenters.google/locations/virginia/).
+    American Battlefield Trust.
+    [Sponsor disclosures and form of Google award](https://www.battlefields.org/about/sponsors), [2019 annual report](https://www.battlefields.org/sites/default/files/atoms/files/ABT_AnnualReport2019_updatedJune2020.pdf).
+28. American Battlefield Trust.
+    [Digital Gateway project and rezoning lawsuit](https://www.battlefields.org/speak-out/digital-gateway-threatens-overwhelm-manassas-battlefield).
+29. National Parks Conservation Association.
+    [Account of the Digital Gateway outcome](https://www.npca.org/articles/11453-victory-for-manassas-proposed-massive-data-center-digital-gateway-threat).
