@@ -54,3 +54,6 @@ Bibliography entries 20–23 preserve the evidence trail.
 November 8, 2026.
 Compared grantmaker purpose statements, recipient disclosures, and site-specific actions in New York, Pennsylvania, and Virginia.
 Sources 24–29 document the scope and unresolved attribution of each award.
+November 8, 2026.
+Compared existing capacity and blocked development in Prince William County and Oregon, Ohio.
+Sources 30–32 distinguish marketed campus capacity, proposed electric load, and realized outcomes.

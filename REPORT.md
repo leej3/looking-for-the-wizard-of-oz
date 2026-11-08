@@ -144,6 +144,36 @@ The $7 trillion figure discussed during topic development was a hypothetical sta
 The sources here do not establish it as committed U.S. spending.
 [8, 9, 12–14]
 
+### Who gains if demand holds and a specific buildout stops?
+
+Prince William County, Virginia, offers a comparison within one market.
+The Digital Gateway proposals by QTS and Compass ended after the rezonings were overturned and the developers withdrew.
+Both lost the opportunity to build at that site.
+QTS also markets its existing Manassas 1 campus at 190-plus MW of critical campus capacity.
+The published figure describes the campus; it does not tell us how many megawatts are energized, available to a new tenant, or coming up for renewal.
+Google also owns and operates facilities in the county.
+[27, 29–31]
+
+| Party | Economic position after the Gateway cancellation |
+| --- | --- |
+| QTS | Lost a specific expansion opportunity. Its existing Manassas business could also gain if displaced customers bid for compatible capacity that QTS can sell or reprice. Its net exposure depends on both amounts. |
+| Compass | Lost its proposed local development. The public record establishes a foregone opportunity at this site; it does not price that loss or determine how much business Compass can place elsewhere. |
+| Google | Already controls computing infrastructure in the market. It could gain customers if buyers switch to Google Cloud, or benefit from its own secured capacity as alternatives become scarcer. A customer seeking a dedicated facility may have little reason to substitute a cloud service. |
+| Tenants holding powered space at fixed rents | A tenant able to serve additional demand can capture the near-term benefit before its landlord can reset rent. At renewal, bargaining power may shift toward the landlord. Digital Realty identifies local availability as a factor in renewal rents. [14] |
+
+Oregon, Ohio, supplies a second observable loss.
+Capacity LLC told the city the proposed campus would draw about **500 MW of electricity at full buildout**.
+Vantage announced after the vote that the project would not proceed as proposed.
+That number measures projected site demand.
+It cannot be counted as computing capacity removed from operation or as profit transferred to someone else.
+If the customer builds elsewhere, the receiving site can gain even when national supply barely changes.
+[19, 32]
+
+The clearest finding is asymmetric: a canceled proposal identifies a developer that lost an option.
+Naming a winner requires following the displaced customer.
+A subsequent lease, a change in local rents relative to comparable markets, or evidence that a competing cloud provider won the workload would help distinguish a scarcity gain from a project that simply moved.
+The same inquiry works whether the stoppage came from residents, courts, a regulator, or an industry participant.
+
 ## Who is trying to shape opinion?
 
 Food & Water Watch publicly convened more than 500 groups seeking a national moratorium, citing local environmental harms and broader concerns about jobs and corporate power.
@@ -345,3 +375,11 @@ The audience can apply those questions whichever outcome they favor.
     [Digital Gateway project and rezoning lawsuit](https://www.battlefields.org/speak-out/digital-gateway-threatens-overwhelm-manassas-battlefield).
 29. National Parks Conservation Association.
     [Account of the Digital Gateway outcome](https://www.npca.org/articles/11453-victory-for-manassas-proposed-massive-data-center-digital-gateway-threat).
+30. QTS.
+    [Manassas 1 campus specifications](https://q.com/data-centers/manassas/).
+    Coalition to Protect Prince William County.
+    [Inventory compiled from county GIS](https://protectpwc.org/issues/data-centers/data-center-tables/).
+31. Tom’s Hardware, July 3, 2026.
+    [QTS and Compass withdraw from Virginia Digital Gateway](https://www.tomshardware.com/tech-industry/artificial-intelligence/blackstone-owned-qts-abandons-planned-worlds-largest-data-center-campus-after-years-of-lawsuits-2-100-acre-virginia-digital-gateway-project-dies-over-a-newspaper-notice-technicality).
+32. City of Oregon.
+    [Industrial park proposal and developer’s full-buildout electricity estimate](https://oregonohio.org/oregon-industrial-park-information-on-data-centers/).
