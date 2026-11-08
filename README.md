@@ -88,3 +88,5 @@ Counts are facility, campus, or project records.
 Additive power totals avoid duplicating shared envelopes, and stage labels describe October status.
 The two source extracts, inventory, joined table, correlations and figure are checksummed.
 Verification regenerates the analysis offline.
+November 8, 2026.
+Revised the interpretation of the state analysis: retained the reproducible aggregates and retired the correlation figure from the report narrative because geography and survey denominators do not support an exposure-based account of voter motives.
