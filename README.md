@@ -5,6 +5,9 @@ Each slide includes expandable notes and references.
 The website reads the current nine-slide export in `docs/slides`.
 Rebuild its HTML with `python3 scripts/build_public_site.py`.
 
+The editable presentation source is in [presentation.json](presentation.json), including slide objects, charts, notes, and links.
+Its images are stored in `figures/deck/`.
+
 # Behind the curtain research object
 
 Read [the report and bibliography](REPORT.md).
