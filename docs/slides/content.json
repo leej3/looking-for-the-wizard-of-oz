@@ -85,18 +85,18 @@
     ]
   },
   {
-    "notes": "In Oregon, Ohio, Jim and Laura Davis helped gather signatures to put a 25 MW data center cap on the ballot. About 61% voted for it. Vantage contributed $250,000 to an effort to defeat the cap. Four union groups contributed $85,000 to a separate committee on the same side. Two days after the vote, Vantage said the project would not proceed as proposed.\n\nNationally, about a quarter of voters told the AP Voter Poll that AI data centers were crucial to their congressional vote. That response measures the importance voters assigned to the issue. It does not identify which position or candidate they favored.\n\nSources and credits\nhttps://www.cleveland.com/open/2026/11/ohio-voters-reject-data-centers-despite-hundreds-of-thousands-in-opposition-spending.html\nhttps://www.13abc.com/2026/11/05/vantage-data-centers-says-it-will-not-move-forward-after-oregon-voters-approve-issue-25-ban/\nhttps://apnews.com/article/63b33be8884d867d3ac831040d683a2c",
+    "notes": "Nationally, about a quarter of voters told the AP Voter Poll that AI data centers were crucial to their congressional vote. That response measures the importance voters assigned to the issue. It does not identify which position or candidate they favored.\n\nIn Oregon, Ohio, Jim and Laura Davis helped gather signatures to put a 25 MW data center cap on the ballot. About 61% voted for it. Vantage contributed $250,000 to an effort to defeat the cap. Four union groups contributed $85,000 to a separate committee on the same side. Two days after the vote, Vantage said the project would not proceed as proposed.\n\nSources and credits\nhttps://www.cleveland.com/open/2026/11/ohio-voters-reject-data-centers-despite-hundreds-of-thousands-in-opposition-spending.html\nhttps://www.13abc.com/2026/11/05/vantage-data-centers-says-it-will-not-move-forward-after-oregon-voters-approve-issue-25-ban/\nhttps://apnews.com/article/63b33be8884d867d3ac831040d683a2c",
     "text": [
-      "Campaign funding",
-      "Vote & Vantage response",
-      "AP Voter Poll",
       "How data centers figured in the vote",
-      "Oregon, Ohio",
-      "61%",
-      "voted for a 25 MW limit on data centers.",
       "United States",
+      "Oregon, Ohio",
       "≈25%",
-      "said AI data centers were crucial to their congressional vote."
+      "61%",
+      "said AI data centers were crucial to their congressional vote.",
+      "voted for a 25 MW limit on data centers.",
+      "AP Voter Poll",
+      "Campaign funding",
+      "Vote & Vantage response"
     ]
   },
   {
