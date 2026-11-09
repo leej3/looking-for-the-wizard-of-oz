@@ -1,0 +1,10 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/j5v9vg","index":3,"layout":{"id":"ly/zy5o7yhk","name":"Blank"},"backgroundColor":"rgba(250,248,241,1)","position":{"left":0,"top":0,"width":1280,"height":720}},
+"elements":[
+{"id":"sh/z6xo7ux0","kind":"textbox","name":"Why would you want one nearby?","position":{"left":64,"top":58,"width":1160,"height":90},"text":"Why would you want one nearby?","style":{"fontSize":55,"typeface":"Georgia","color":"#102F32","alignment":"left"},"geometry":"rect"},
+{"id":"sh/yl47epwf","kind":"textbox","name":"Among supporters","position":{"left":64,"top":155,"width":570,"height":55},"text":"Among supporters","style":{"fontSize":37,"typeface":"Georgia","color":"#126D69","alignment":"left"},"geometry":"rect"},
+{"id":"sh/l8f69kfq","kind":"textbox","name":"Among opponents","position":{"left":655,"top":155,"width":570,"height":55},"text":"Among opponents","style":{"fontSize":37,"typeface":"Georgia","color":"#985028","alignment":"left"},"geometry":"rect"},
+{"id":"sh/el03i1cv","kind":"textbox","name":"Gallup · April 2026 · Open-ended responses","position":{"left":64,"top":655,"width":730,"height":48},"text":"Gallup · April 2026 · Open-ended responses","style":{"fontSize":19,"typeface":"Aptos","color":"#126D69","alignment":"left"},"geometry":"rect"},
+{"id":"ch/pgnuhc7i","kind":"chart","position":{"left":40,"top":209,"width":595,"height":375},"chartType":"bar","title":""},
+{"id":"ch/4feto7qx","kind":"chart","position":{"left":650,"top":209,"width":595,"height":375},"chartType":"bar","title":""},
+{"id":"sh/nmpcr65s","kind":"textbox","name":"Percent within each group mentioning a reason. Responses can overlap.","position":{"left":64,"top":608,"width":1170,"height":40},"text":"Percent within each group mentioning a reason. Responses can overlap.","style":{"fontSize":20,"typeface":"Aptos","color":"#102F32","alignment":"left"},"geometry":"rect"}
+]}

@@ -1,0 +1,127 @@
+[
+  {
+    "notes": "Henry Littlefield’s 1964 interpretation connects Dorothy’s silver shoes and the yellow brick road to the Populist campaign for silver coinage. Falling wheat prices meant a farmer had to sell more wheat to repay a fixed debt. Populists hoped expanding the money supply would lift prices. Farmers and creditors therefore had different interests in the same monetary policy.\n\nThe illustration depicts Littlefield’s reading. The parallel for data centers is the distribution of costs and benefits among people affected by the same decision.\n\nSources and credits\nhttps://www.americanhistory.si.edu/explore/stories/populism-and-world-oz\nhttps://www.jstor.org/stable/2710826",
+    "text": [
+      "Looking for the\nWizard of Oz",
+      "Smithsonian · Populism and the World of Oz"
+    ]
+  },
+  {
+    "notes": "Railroad construction averaged about 2.4% of U.S. GDP per year from 1865 to 1890. Stijn Van Nieuwerburgh estimates that if U.S. AI infrastructure reaches 188 GW by 2032, investment would average 3.2% of GDP per year over 2025–2032, about one-third more relative to the size of the economy. The paper estimates nearly $9 trillion for that nationwide scenario. The illustration depicts one hypothetical campus. The comparison concerns the size of the investment and does not predict its financial outcome.\n\nA utility may need to build transmission lines or substations for a proposed campus. If the customer uses less power than it reserved, the tariff helps determine who pays for the unused capacity. AEP Ohio’s data center tariff requires covered customers to pay for a minimum share of their contracted capacity. The image illustrates a hypothetical 15 GW campus.\n\nSources and credits\nhttps://www.aepohio.com/company/about/rates/data-center-tariff/\nAI investment scenario: https://www.nber.org/papers/w35865\nHistorical railroad benchmark: https://business.columbia.edu/sites/default/files-efs/imce-uploads/svannieuwerburgh/papers/FinancingAIBuildout_03192026.pdf",
+    "text": [
+      "If my town\nsays no",
+      "Who gains when a community builds or blocks an AI data center?",
+      "John Lee",
+      "Ohio tariff",
+      "Hypothetical 15 GW campus · AI-generated illustration"
+    ]
+  },
+  {
+    "notes": "By mid-2022, Virginia had more hyperscale data center capacity than all of Europe. Synergy compared the power available to IT equipment across 19 large cloud and internet service providers. Amazon, Microsoft and Google already operated infrastructure in Northern Virginia.\n\nDCMap’s October 2026 Virginia inventory reports 9.0 GW at operating sites, 8.3 GW under construction and 23.3 GW planned. The rounded 41 GW total includes proposals whose completion is uncertain. The figures describe reported capacity rather than metered electricity consumption. Published figures vary in scope, and some sites lack power data.\n\nSynergy and DCMap cover different facilities and use different power measures. Their figures establish Virginia’s importance before the generative AI boom and the scale of its current infrastructure. They do not establish how much of the 9 GW existed in 2022 or how much was subsequently built for AI.\n\nSources and credits\nhttps://dcmap.us/states/virginia/\nhttps://dcmap.us/stats/\nhttps://dcmap.us/methodology/\nhttps://www.srgresearch.com/articles/virginia-still-has-more-hyperscale-data-center-capacity-than-either-europe-or-china",
+    "text": [
+      "Virginia’s 41 GW includes projects on paper",
+      "Reported power by stage",
+      "9 GW",
+      "Operational",
+      "8 GW",
+      "Under construction",
+      "23 GW",
+      "Planned",
+      "October 2026 · Rounded figures; reported power varies in scope and coverage.",
+      "Virginia data",
+      "U.S. totals",
+      "DCMap methodology"
+    ]
+  },
+  {
+    "notes": "Gallup’s April 2026 panel asked people to explain in their own words why they favored or opposed a local data center. Among supporters, 55% mentioned jobs and 13% mentioned tax revenue or investment. Among opponents, 50% cited resource use, including 18% who mentioned water and 18% who mentioned power. Noise accounted for 9% of opponents’ responses and falls within the broader pollution category.\n\nEach percentage uses supporters or opponents as its denominator. A respondent could mention several reasons. The April follow-up was separate from the March survey that measured overall support.\n\nSources and credits\nhttps://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx",
+    "text": [
+      "Why would you want one nearby?",
+      "Among supporters",
+      "Among opponents",
+      "Gallup · April 2026 · Open-ended responses",
+      "Percent within each group mentioning a reason. Responses can overlap."
+    ]
+  },
+  {
+    "notes": "Pew asked U.S. adults how data centers affect five aspects of local life. From January to August, the share answering “mostly bad” rose from 30% to 49% for nearby residents’ quality of life, 39% to 54% for the environment, 38% to 50% for home energy costs, 15% to 24% for local jobs and 12% to 21% for local tax revenue. Among rural adults, the corresponding shares rose from 28% to 45% for quality of life, 32% to 50% for the environment and 32% to 46% for energy costs. The share of all adults who had never heard of data centers fell from 25% to 12%. These group-level changes do not identify which individuals changed their views.\n\nPew reports full-sample 95% margins of ±1.4 percentage points in January (n = 8,512) and ±1.3 in July–August (n = 10,548). Assuming independent waves, SE(change) = √[(1.4/1.96)² + (1.3/1.96)²] ≈ 0.975 points. The approximate 95% half-width is 1.96 × SE ≈ 1.91 points. The intervals for the increases are 17.1–20.9 points for quality of life, 13.1–16.9 for the environment, 10.1–13.9 for energy costs and 7.1–10.9 for both jobs and tax revenue. Each whisker shows uncertainty in the change, positioned at its August endpoint on the absolute percentage axis. These calculations use rounded survey-wide margins. Panel overlap and item-specific design effects could alter the intervals.\n\nSources and credits\nhttps://www.pewresearch.org/short-reads/2026/09/22/americans-views-of-data-centers-have-turned-more-negative/\nhttps://www.pewresearch.org/wp-content/uploads/sites/20/2026/03/SR_26.03.12_data-centers_topline.pdf\nhttps://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/SR_26.09.22_data-centers_methodology.pdf",
+    "text": [
+      "More people expected harm to neighbors’ quality of life",
+      "Share saying data centers were mostly bad for each area",
+      "0%",
+      "10%",
+      "20%",
+      "30%",
+      "40%",
+      "50%",
+      "60%",
+      "Nearby quality of life",
+      "+19",
+      "Environment",
+      "+15",
+      "Home energy costs",
+      "+12",
+      "Local jobs",
+      "+9",
+      "Local tax revenue",
+      "+9",
+      "Bars run from January to August. Whiskers show approximate 95% intervals for the change.",
+      "Assumes independent waves. Calculation and sources in speaker notes.",
+      "Pew Research Center · January and July–August 2026"
+    ]
+  },
+  {
+    "notes": "In March 2026, Gallup found that 71% of U.S. adults opposed building an AI data center locally and 53% opposed building a nuclear power plant locally. Respondents answered a separate question about each facility and could oppose both. The 18-point gap describes the difference between the two responses.\n\nIn November, about three quarters of U.S. voters in the AP Voter Poll opposed a new data center in their community. Gallup surveyed adults and AP surveyed voters, so the two percentages cannot establish a change over time.\n\nSources and credits\nhttps://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx\nhttps://apnews.com/article/63b33be8884d867d3ac831040d683a2c",
+    "text": [
+      "Which would you want nearby?",
+      "AI data center",
+      "71%",
+      "Nuclear power plant",
+      "53%",
+      "Share of U.S. adults opposed to local construction · March 2026",
+      "Gallup survey",
+      "November AP Voter Poll: about ¾ of voters opposed a new data center nearby.",
+      "AP Voter Poll"
+    ]
+  },
+  {
+    "notes": "In Oregon, Ohio, Jim and Laura Davis helped gather signatures to put a 25 MW data center cap on the ballot. About 61% voted for it. Vantage contributed $250,000 to an effort to defeat the cap. Four union groups contributed $85,000 to a separate committee on the same side. Two days after the vote, Vantage said the project would not proceed as proposed.\n\nNationally, about a quarter of voters told the AP Voter Poll that AI data centers were crucial to their congressional vote. That response measures the importance voters assigned to the issue. It does not identify which position or candidate they favored.\n\nSources and credits\nhttps://www.cleveland.com/open/2026/11/ohio-voters-reject-data-centers-despite-hundreds-of-thousands-in-opposition-spending.html\nhttps://www.13abc.com/2026/11/05/vantage-data-centers-says-it-will-not-move-forward-after-oregon-voters-approve-issue-25-ban/\nhttps://apnews.com/article/63b33be8884d867d3ac831040d683a2c",
+    "text": [
+      "Campaign funding",
+      "Vote & Vantage response",
+      "AP Voter Poll",
+      "How data centers figured in the vote",
+      "Oregon, Ohio",
+      "61%",
+      "voted for a 25 MW limit on data centers.",
+      "United States",
+      "≈25%",
+      "said AI data centers were crucial to their congressional vote."
+    ]
+  },
+  {
+    "notes": "A town can decline a proposal. If the developer finds another site, construction jobs and potential tax revenue move with the project. The new host also takes on demands for land and electricity. Local tax agreements affect the size of the benefit.\n\nIf enough projects stall and demand for computing holds, a company that already controls powered space may face fewer competing sites when negotiating a lease. An existing fixed-price lease can delay any gain until renewal. This possible benefit does not establish that an owner backed efforts to stop construction.\n\nSources and credits\nhttps://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp\nhttps://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm",
+    "text": [
+      "Who gains if a town says no?",
+      "If the project moves",
+      "Another town could gain construction jobs and tax revenue. It would also supply the land and power.",
+      "If fewer centers get built",
+      "If demand holds, owners of existing data centers face less competition. They may be able to charge more when leases come up for renewal.",
+      "Virginia fiscal review",
+      "Lease economics · SEC"
+    ]
+  },
+  {
+    "notes": "Oregon’s vote settled the fate of one proposal. The broader economic outcome depends on what happens elsewhere. If another community hosts the project, some of its benefits and costs move there. If new construction slows widely while demand remains strong, companies that already own operating sites may gain bargaining power when leases renew. An owner can benefit from that outcome regardless of who organized the opposition.\n\nThe photograph shows the Ashtabula substation in Ohio. Photo by jbthemilker, licensed under CC BY-SA 4.0.\n\nSources and credits\nhttps://www.aepohio.com/company/about/rates/data-center-tariff/\nhttps://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm\nhttps://commons.wikimedia.org/wiki/File:Ashtabula_substation.png\nhttps://creativecommons.org/licenses/by-sa/4.0/\nOregon vote and developer response: https://www.13abc.com/2026/11/05/vantage-data-centers-says-it-will-not-move-forward-after-oregon-voters-approve-issue-25-ban/",
+    "text": [
+      "Ohio tariff",
+      "Lease economics · SEC",
+      "Photo: jbthemilker",
+      "CC BY-SA 4.0",
+      "Stopping construction can benefit those who built first",
+      "In Oregon, Ohio, voters stopped a proposed data center.",
+      "A single project can move. The jobs, tax revenue and demand for electricity may move with it.",
+      "If construction slows across the country and demand for AI keeps growing, companies that already own data centers may be able to charge more for their use."
+    ]
+  }
+]
