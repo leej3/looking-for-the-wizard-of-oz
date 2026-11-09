@@ -90,3 +90,16 @@ The two source extracts, inventory, joined table, correlations and figure are ch
 Verification regenerates the analysis offline.
 November 8, 2026.
 Revised the interpretation of the state analysis: retained the reproducible aggregates and retired the correlation figure from the report narrative because geography and survey denominators do not support an exposure-based account of voter motives.
+
+## Speech review
+
+The eight-slide deck in `site/` uses the previous speech’s Markdown table, deck controls, presenter notes and transcript.
+Edit `site/content.md` to revise the talk.
+Run `pixi run --locked python -m http.server 8741 --bind 127.0.0.1 --directory site` and open http://127.0.0.1:8741/.
+Arrow keys move between slides; N opens notes.
+Transcript shows all rows in reading order.
+
+November 8, 2026.
+Adapted the renderer and transcript scripts from the local research-object-with-ai deck.
+The revised personal outline supplied the electricity question and the ending.
+The Gallup comparison uses the same March survey for both facility types.

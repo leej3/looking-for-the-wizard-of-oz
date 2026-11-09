@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="If My Town Says No AI data centers." />
+    <title>If My Town Says No — AI data centers</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="deck" aria-label="AI data centers slide deck">
+      <button id="previous-zone" class="click-zone" aria-label="Previous slide"></button>
+      <section id="stage" aria-live="polite" aria-atomic="true">
+        <article id="screen" class="screen"></article>
+        <p id="slide-description" class="sr-only"></p>
+      </section>
+      <button id="next-zone" class="click-zone" aria-label="Next slide"></button>
+
+      <aside id="notes-panel" aria-label="Presenter notes" aria-hidden="true">
+        <div class="notes-heading">
+          <span id="notes-section"></span>
+          <strong id="notes-number"></strong>
+        </div>
+        <h2>Spoken</h2>
+        <p id="notes-voice"></p>
+        <h2>Notes</h2>
+        <p id="notes-text"></p>
+      </aside>
+
+      <div id="progress" aria-hidden="true"><span></span></div>
+
+      <nav id="controls" aria-label="Presentation controls">
+        <button id="previous" aria-label="Previous slide">←</button>
+        <span id="counter" aria-live="polite"></span>
+        <button id="next" aria-label="Next slide">→</button>
+        <button id="notes" aria-label="Toggle presenter notes">Notes</button>
+        <button id="fullscreen" aria-label="Enter fullscreen">⛶</button>
+        <a href="transcript.html" target="_blank" rel="noreferrer">Transcript</a>
+      </nav>
+
+      <div id="hint">← → navigate · F fullscreen · N notes</div>
+    </main>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
