@@ -1,5 +1,5 @@
 {
-  "id": "c50ojl",
+  "id": "ecabge",
   "slides": [
     {
       "id": "kimuy0",
@@ -514,8 +514,8 @@
             }
           ],
           "bbox": {
-            "xEmu": 609600,
-            "yEmu": 1123950,
+            "xEmu": 603981,
+            "yEmu": 1126761,
             "widthEmu": 5238750,
             "heightEmu": 2095500
           }
@@ -8191,815 +8191,8 @@
       }
     },
     {
-      "id": "44iyes",
-      "index": 7,
-      "useLayoutId": "c9063229-0afa-4da9-8f57-44e911a37ac0",
-      "widthEmu": 12192000,
-      "heightEmu": 6858000,
-      "creationId": "1293203421",
-      "elements": [
-        {
-          "id": "3081645228818452",
-          "name": "Where does the work go?",
-          "type": 5,
-          "children": [],
-          "levelsStyles": [],
-          "citations": [],
-          "shape": {
-            "geometry": 5,
-            "adjustmentList": [],
-            "customPaths": [],
-            "customGeometryGuides": []
-          },
-          "creationId": "{C291C344-37F6-4F0E-91DE-A94BC107624B}",
-          "effects": [],
-          "textStyle": {
-            "anchor": 2,
-            "bold": false,
-            "fontSize": 4125,
-            "fill": {
-              "type": 1,
-              "color": {
-                "type": 1,
-                "value": "102F32"
-              },
-              "gradientStops": [],
-              "pictureEffects": []
-            },
-            "bottomInset": 0,
-            "leftInset": 0,
-            "rightInset": 0,
-            "topInset": 0,
-            "wrap": 2,
-            "typeface": "Georgia"
-          },
-          "paragraphs": [
-            {
-              "id": "",
-              "runs": [
-                {
-                  "id": "",
-                  "text": "Who gains if a town says no?",
-                  "textStyle": {
-                    "bold": false,
-                    "fontSize": 4125,
-                    "fill": {
-                      "type": 1,
-                      "color": {
-                        "type": 1,
-                        "value": "102F32"
-                      },
-                      "gradientStops": [],
-                      "pictureEffects": []
-                    },
-                    "typeface": "Georgia"
-                  },
-                  "citations": [],
-                  "reviewMarkIds": []
-                }
-              ],
-              "textStyle": {
-                "bold": false,
-                "fontSize": 4125,
-                "fill": {
-                  "type": 1,
-                  "color": {
-                    "type": 1,
-                    "value": "102F32"
-                  },
-                  "gradientStops": [],
-                  "pictureEffects": []
-                },
-                "typeface": "Georgia"
-              },
-              "inlineNodes": []
-            }
-          ],
-          "bbox": {
-            "xEmu": 609600,
-            "yEmu": 619125,
-            "widthEmu": 11049000,
-            "heightEmu": 1009650
-          }
-        },
-        {
-          "id": "3081645228818453",
-          "name": "If the project moves",
-          "type": 5,
-          "children": [],
-          "levelsStyles": [],
-          "citations": [],
-          "shape": {
-            "geometry": 5,
-            "adjustmentList": [],
-            "customPaths": [],
-            "customGeometryGuides": []
-          },
-          "creationId": "{0674A4F6-4D56-4A60-B0D0-0A82968AE395}",
-          "effects": [],
-          "textStyle": {
-            "anchor": 2,
-            "bold": false,
-            "fontSize": 2775,
-            "fill": {
-              "type": 1,
-              "color": {
-                "type": 1,
-                "value": "126D69"
-              },
-              "gradientStops": [],
-              "pictureEffects": []
-            },
-            "bottomInset": 0,
-            "leftInset": 0,
-            "rightInset": 0,
-            "topInset": 0,
-            "wrap": 2,
-            "typeface": "Georgia"
-          },
-          "paragraphs": [
-            {
-              "id": "",
-              "runs": [
-                {
-                  "id": "",
-                  "text": "If the project moves",
-                  "textStyle": {
-                    "bold": false,
-                    "fontSize": 2775,
-                    "fill": {
-                      "type": 1,
-                      "color": {
-                        "type": 1,
-                        "value": "126D69"
-                      },
-                      "gradientStops": [],
-                      "pictureEffects": []
-                    },
-                    "typeface": "Georgia"
-                  },
-                  "citations": [],
-                  "reviewMarkIds": []
-                }
-              ],
-              "textStyle": {
-                "bold": false,
-                "fontSize": 2775,
-                "fill": {
-                  "type": 1,
-                  "color": {
-                    "type": 1,
-                    "value": "126D69"
-                  },
-                  "gradientStops": [],
-                  "pictureEffects": []
-                },
-                "typeface": "Georgia"
-              },
-              "inlineNodes": []
-            }
-          ],
-          "bbox": {
-            "xEmu": 609600,
-            "yEmu": 2038350,
-            "widthEmu": 4953000,
-            "heightEmu": 838200
-          }
-        },
-        {
-          "id": "3081645228818454",
-          "name": "Another town could gain construction jobs and tax reven",
-          "type": 5,
-          "children": [],
-          "levelsStyles": [],
-          "citations": [],
-          "shape": {
-            "geometry": 5,
-            "adjustmentList": [],
-            "customPaths": [],
-            "customGeometryGuides": []
-          },
-          "creationId": "{F1981539-B9DA-428B-8CC4-76C7ACBFB67C}",
-          "effects": [],
-          "textStyle": {
-            "anchor": 2,
-            "bold": false,
-            "fontSize": 2175,
-            "fill": {
-              "type": 1,
-              "color": {
-                "type": 1,
-                "value": "102F32"
-              },
-              "gradientStops": [],
-              "pictureEffects": []
-            },
-            "bottomInset": 0,
-            "leftInset": 0,
-            "rightInset": 0,
-            "topInset": 0,
-            "wrap": 2,
-            "typeface": "Aptos"
-          },
-          "paragraphs": [
-            {
-              "id": "",
-              "runs": [
-                {
-                  "id": "",
-                  "text": "Another town could gain construction jobs and tax revenue. It would also supply the land and power.",
-                  "textStyle": {
-                    "bold": false,
-                    "fontSize": 2175,
-                    "fill": {
-                      "type": 1,
-                      "color": {
-                        "type": 1,
-                        "value": "102F32"
-                      },
-                      "gradientStops": [],
-                      "pictureEffects": []
-                    },
-                    "typeface": "Aptos"
-                  },
-                  "citations": [],
-                  "reviewMarkIds": []
-                }
-              ],
-              "textStyle": {
-                "bold": false,
-                "fontSize": 2175,
-                "fill": {
-                  "type": 1,
-                  "color": {
-                    "type": 1,
-                    "value": "102F32"
-                  },
-                  "gradientStops": [],
-                  "pictureEffects": []
-                },
-                "typeface": "Aptos"
-              },
-              "inlineNodes": []
-            }
-          ],
-          "bbox": {
-            "xEmu": 609600,
-            "yEmu": 3048000,
-            "widthEmu": 4819650,
-            "heightEmu": 1981200
-          }
-        },
-        {
-          "id": "3081645228818455",
-          "name": "Chart mark",
-          "type": 5,
-          "children": [],
-          "levelsStyles": [],
-          "citations": [],
-          "shape": {
-            "geometry": 5,
-            "fill": {
-              "type": 1,
-              "color": {
-                "type": 1,
-                "value": "D4DAD4"
-              },
-              "gradientStops": [],
-              "pictureEffects": []
-            },
-            "line": {
-              "widthEmu": 0,
-              "fill": {
-                "type": 0,
-                "gradientStops": [],
-                "pictureEffects": []
-              },
-              "style": 0
-            },
-            "adjustmentList": [],
-            "customPaths": [],
-            "customGeometryGuides": []
-          },
-          "creationId": "{3D9091DF-EEE9-4553-9A28-F0B51E1F1F8F}",
-          "effects": [],
-          "paragraphs": [],
-          "bbox": {
-            "xEmu": 5829300,
-            "yEmu": 2019300,
-            "widthEmu": 19050,
-            "heightEmu": 3238500
-          }
-        },
-        {
-          "id": "3081645228818456",
-          "name": "If supply stays scarce",
-          "type": 5,
-          "children": [],
-          "levelsStyles": [],
-          "citations": [],
-          "shape": {
-            "geometry": 5,
-            "adjustmentList": [],
-            "customPaths": [],
-            "customGeometryGuides": []
-          },
-          "creationId": "{DEDFA77C-2471-4383-8AC0-18CECE7FB937}",
-          "effects": [],
-          "textStyle": {
-            "anchor": 2,
-            "bold": false,
-            "fontSize": 2775,
-            "fill": {
-              "type": 1,
-              "color": {
-                "type": 1,
-                "value": "126D69"
-              },
-              "gradientStops": [],
-              "pictureEffects": []
-            },
-            "bottomInset": 0,
-            "leftInset": 0,
-            "rightInset": 0,
-            "topInset": 0,
-            "wrap": 2,
-            "typeface": "Georgia"
-          },
-          "paragraphs": [
-            {
-              "id": "",
-              "runs": [
-                {
-                  "id": "",
-                  "text": "If fewer centers get built",
-                  "textStyle": {
-                    "bold": false,
-                    "fontSize": 2775,
-                    "fill": {
-                      "type": 1,
-                      "color": {
-                        "type": 1,
-                        "value": "126D69"
-                      },
-                      "gradientStops": [],
-                      "pictureEffects": []
-                    },
-                    "typeface": "Georgia"
-                  },
-                  "citations": [],
-                  "reviewMarkIds": []
-                }
-              ],
-              "textStyle": {
-                "bold": false,
-                "fontSize": 2775,
-                "fill": {
-                  "type": 1,
-                  "color": {
-                    "type": 1,
-                    "value": "126D69"
-                  },
-                  "gradientStops": [],
-                  "pictureEffects": []
-                },
-                "typeface": "Georgia"
-              },
-              "inlineNodes": []
-            }
-          ],
-          "bbox": {
-            "xEmu": 6486525,
-            "yEmu": 2038350,
-            "widthEmu": 4953000,
-            "heightEmu": 838200
-          }
-        },
-        {
-          "id": "3081645228818457",
-          "name": "Customers seeking powered space may have fewer options.",
-          "type": 5,
-          "children": [],
-          "levelsStyles": [],
-          "citations": [],
-          "shape": {
-            "geometry": 5,
-            "adjustmentList": [],
-            "customPaths": [],
-            "customGeometryGuides": []
-          },
-          "creationId": "{F69006BE-41D4-4A9D-8A79-568757F2B013}",
-          "effects": [],
-          "textStyle": {
-            "anchor": 2,
-            "bold": false,
-            "fontSize": 2175,
-            "fill": {
-              "type": 1,
-              "color": {
-                "type": 1,
-                "value": "102F32"
-              },
-              "gradientStops": [],
-              "pictureEffects": []
-            },
-            "bottomInset": 0,
-            "leftInset": 0,
-            "rightInset": 0,
-            "topInset": 0,
-            "wrap": 2,
-            "typeface": "Aptos"
-          },
-          "paragraphs": [
-            {
-              "id": "",
-              "runs": [
-                {
-                  "id": "",
-                  "text": "If demand holds, owners of existing data centers face less competition. They may be able to charge more when leases come up for renewal.",
-                  "textStyle": {
-                    "bold": false,
-                    "fontSize": 2175,
-                    "fill": {
-                      "type": 1,
-                      "color": {
-                        "type": 1,
-                        "value": "102F32"
-                      },
-                      "gradientStops": [],
-                      "pictureEffects": []
-                    },
-                    "typeface": "Aptos"
-                  },
-                  "citations": [],
-                  "reviewMarkIds": []
-                }
-              ],
-              "textStyle": {
-                "bold": false,
-                "fontSize": 2175,
-                "fill": {
-                  "type": 1,
-                  "color": {
-                    "type": 1,
-                    "value": "102F32"
-                  },
-                  "gradientStops": [],
-                  "pictureEffects": []
-                },
-                "typeface": "Aptos"
-              },
-              "inlineNodes": []
-            }
-          ],
-          "bbox": {
-            "xEmu": 6486525,
-            "yEmu": 3048000,
-            "widthEmu": 4886325,
-            "heightEmu": 2143125
-          }
-        },
-        {
-          "id": "3081645228818458",
-          "name": "Virginia fiscal review",
-          "type": 5,
-          "children": [],
-          "levelsStyles": [],
-          "citations": [],
-          "shape": {
-            "geometry": 5,
-            "adjustmentList": [],
-            "customPaths": [],
-            "customGeometryGuides": []
-          },
-          "creationId": "{695D2CD8-302C-4F32-85E8-0A402B360E65}",
-          "effects": [],
-          "textStyle": {
-            "anchor": 2,
-            "bold": false,
-            "fontSize": 1125,
-            "fill": {
-              "type": 1,
-              "color": {
-                "type": 1,
-                "value": "126D69"
-              },
-              "gradientStops": [],
-              "pictureEffects": []
-            },
-            "bottomInset": 0,
-            "leftInset": 0,
-            "rightInset": 0,
-            "topInset": 0,
-            "wrap": 2,
-            "typeface": "Aptos"
-          },
-          "paragraphs": [
-            {
-              "id": "",
-              "runs": [
-                {
-                  "id": "",
-                  "text": "Virginia fiscal review",
-                  "textStyle": {
-                    "bold": false,
-                    "fontSize": 1125,
-                    "fill": {
-                      "type": 1,
-                      "color": {
-                        "type": 1,
-                        "value": "126D69"
-                      },
-                      "gradientStops": [],
-                      "pictureEffects": []
-                    },
-                    "underline": true,
-                    "typeface": "Aptos"
-                  },
-                  "hyperlink": {
-                    "action": "",
-                    "isExternal": false,
-                    "target": "https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp",
-                    "uri": "https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp",
-                    "url": "https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp"
-                  },
-                  "citations": [],
-                  "reviewMarkIds": []
-                }
-              ],
-              "textStyle": {
-                "bold": false,
-                "fontSize": 1125,
-                "fill": {
-                  "type": 1,
-                  "color": {
-                    "type": 1,
-                    "value": "126D69"
-                  },
-                  "gradientStops": [],
-                  "pictureEffects": []
-                },
-                "typeface": "Aptos"
-              },
-              "inlineNodes": []
-            }
-          ],
-          "bbox": {
-            "xEmu": 609600,
-            "yEmu": 6324600,
-            "widthEmu": 1842135,
-            "heightEmu": 314325
-          }
-        },
-        {
-          "id": "3081645228818459",
-          "name": "Lease economics · SEC",
-          "type": 5,
-          "children": [],
-          "levelsStyles": [],
-          "citations": [],
-          "shape": {
-            "geometry": 5,
-            "adjustmentList": [],
-            "customPaths": [],
-            "customGeometryGuides": []
-          },
-          "creationId": "{86CB5878-D0C1-4CDD-84AC-7E9E47139E39}",
-          "effects": [],
-          "textStyle": {
-            "anchor": 2,
-            "bold": false,
-            "fontSize": 1125,
-            "fill": {
-              "type": 1,
-              "color": {
-                "type": 1,
-                "value": "126D69"
-              },
-              "gradientStops": [],
-              "pictureEffects": []
-            },
-            "bottomInset": 0,
-            "leftInset": 0,
-            "rightInset": 0,
-            "topInset": 0,
-            "wrap": 2,
-            "typeface": "Aptos"
-          },
-          "paragraphs": [
-            {
-              "id": "",
-              "runs": [
-                {
-                  "id": "",
-                  "text": "Lease economics · SEC",
-                  "textStyle": {
-                    "bold": false,
-                    "fontSize": 1125,
-                    "fill": {
-                      "type": 1,
-                      "color": {
-                        "type": 1,
-                        "value": "126D69"
-                      },
-                      "gradientStops": [],
-                      "pictureEffects": []
-                    },
-                    "underline": true,
-                    "typeface": "Aptos"
-                  },
-                  "hyperlink": {
-                    "action": "",
-                    "isExternal": false,
-                    "target": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm",
-                    "uri": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm",
-                    "url": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm"
-                  },
-                  "citations": [],
-                  "reviewMarkIds": []
-                }
-              ],
-              "textStyle": {
-                "bold": false,
-                "fontSize": 1125,
-                "fill": {
-                  "type": 1,
-                  "color": {
-                    "type": 1,
-                    "value": "126D69"
-                  },
-                  "gradientStops": [],
-                  "pictureEffects": []
-                },
-                "typeface": "Aptos"
-              },
-              "inlineNodes": []
-            }
-          ],
-          "bbox": {
-            "xEmu": 2642235,
-            "yEmu": 6324600,
-            "widthEmu": 1764030,
-            "heightEmu": 314325
-          }
-        }
-      ],
-      "background": {
-        "fill": {
-          "type": 1,
-          "color": {
-            "type": 1,
-            "value": "FAF8F1"
-          },
-          "gradientStops": [],
-          "pictureEffects": []
-        }
-      },
-      "notesSlide": {
-        "id": "",
-        "elements": [
-          {
-            "id": "",
-            "name": "Slide Image Placeholder 1",
-            "type": 0,
-            "placeholderIndex": 0,
-            "placeholderType": "sldImg",
-            "zIndex": 0,
-            "paragraphs": [],
-            "effects": [],
-            "children": [],
-            "levelsStyles": [],
-            "citations": []
-          },
-          {
-            "id": "",
-            "name": "Notes Placeholder 2",
-            "type": 1,
-            "placeholderIndex": 1,
-            "placeholderType": "body",
-            "zIndex": 0,
-            "paragraphs": [
-              {
-                "id": "",
-                "runs": [
-                  {
-                    "id": "",
-                    "text": "A town can decline a proposal. If the developer finds another site, construction jobs and potential tax revenue move with the project. The new host also takes on demands for land and electricity. Local tax agreements affect the size of the benefit.",
-                    "citations": [],
-                    "reviewMarkIds": []
-                  }
-                ],
-                "inlineNodes": []
-              },
-              {
-                "id": "",
-                "runs": [
-                  {
-                    "id": "",
-                    "text": "",
-                    "citations": [],
-                    "reviewMarkIds": []
-                  }
-                ],
-                "inlineNodes": []
-              },
-              {
-                "id": "",
-                "runs": [
-                  {
-                    "id": "",
-                    "text": "If enough projects stall and demand for computing holds, a company that already controls powered space may face fewer competing sites when negotiating a lease. An existing fixed-price lease can delay any gain until renewal. This possible benefit does not establish that an owner backed efforts to stop construction.",
-                    "citations": [],
-                    "reviewMarkIds": []
-                  }
-                ],
-                "inlineNodes": []
-              },
-              {
-                "id": "",
-                "runs": [
-                  {
-                    "id": "",
-                    "text": "",
-                    "citations": [],
-                    "reviewMarkIds": []
-                  }
-                ],
-                "inlineNodes": []
-              },
-              {
-                "id": "",
-                "runs": [
-                  {
-                    "id": "",
-                    "text": "Sources and credits",
-                    "citations": [],
-                    "reviewMarkIds": []
-                  }
-                ],
-                "inlineNodes": []
-              },
-              {
-                "id": "",
-                "runs": [
-                  {
-                    "id": "",
-                    "text": "https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp",
-                    "citations": [],
-                    "reviewMarkIds": []
-                  }
-                ],
-                "inlineNodes": []
-              },
-              {
-                "id": "",
-                "runs": [
-                  {
-                    "id": "",
-                    "text": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm",
-                    "citations": [],
-                    "reviewMarkIds": []
-                  }
-                ],
-                "inlineNodes": []
-              }
-            ],
-            "effects": [],
-            "children": [],
-            "levelsStyles": [],
-            "citations": []
-          },
-          {
-            "id": "",
-            "name": "Slide Number Placeholder 3",
-            "type": 1,
-            "placeholderIndex": 5,
-            "placeholderType": "sldNum",
-            "zIndex": 0,
-            "textStyle": {},
-            "paragraphs": [
-              {
-                "id": "",
-                "runs": [],
-                "inlineNodes": [],
-                "textStyle": {}
-              }
-            ],
-            "effects": [],
-            "children": [],
-            "levelsStyles": [],
-            "citations": []
-          }
-        ],
-        "index": 0,
-        "useLayoutId": "c9063229-0afa-4da9-8f57-44e911a37ac0",
-        "widthEmu": 0,
-        "heightEmu": 0
-      }
-    },
-    {
       "id": "3x9b70",
-      "index": 8,
+      "index": 7,
       "useLayoutId": "c9063229-0afa-4da9-8f57-44e911a37ac0",
       "widthEmu": 12192000,
       "heightEmu": 6858000,
@@ -9450,7 +8643,7 @@
               "runs": [
                 {
                   "id": "",
-                  "text": "Stopping construction can benefit those who built first",
+                  "text": "Who gains when fewer data centers get built?",
                   "textStyle": {
                     "fontSize": 3450,
                     "fill": {
@@ -9508,7 +8701,7 @@
           "effects": [],
           "textStyle": {
             "anchor": 2,
-            "fontSize": 2025,
+            "fontSize": 2100,
             "fill": {
               "type": 1,
               "color": {
@@ -9531,9 +8724,9 @@
               "runs": [
                 {
                   "id": "",
-                  "text": "In Oregon, Ohio, voters stopped a proposed data center.",
+                  "text": "In Oregon, Ohio, residents organized and stopped a proposed data center.",
                   "textStyle": {
-                    "fontSize": 2025,
+                    "fontSize": 2100,
                     "fill": {
                       "type": 1,
                       "color": {
@@ -9550,7 +8743,7 @@
                 }
               ],
               "textStyle": {
-                "fontSize": 2025,
+                "fontSize": 2100,
                 "fill": {
                   "type": 1,
                   "color": {
@@ -9589,7 +8782,7 @@
           "effects": [],
           "textStyle": {
             "anchor": 2,
-            "fontSize": 2025,
+            "fontSize": 2100,
             "fill": {
               "type": 1,
               "color": {
@@ -9612,9 +8805,9 @@
               "runs": [
                 {
                   "id": "",
-                  "text": "A single project can move. The jobs, tax revenue and demand for electricity may move with it.",
+                  "text": "If fewer centers get built and demand stays high, companies that already own them could charge more.",
                   "textStyle": {
-                    "fontSize": 2025,
+                    "fontSize": 2100,
                     "fill": {
                       "type": 1,
                       "color": {
@@ -9631,7 +8824,7 @@
                 }
               ],
               "textStyle": {
-                "fontSize": 2025,
+                "fontSize": 2100,
                 "fill": {
                   "type": 1,
                   "color": {
@@ -9670,7 +8863,7 @@
           "effects": [],
           "textStyle": {
             "anchor": 2,
-            "fontSize": 2025,
+            "fontSize": 2100,
             "fill": {
               "type": 1,
               "color": {
@@ -9693,9 +8886,9 @@
               "runs": [
                 {
                   "id": "",
-                  "text": "If construction slows across the country and demand for AI keeps growing, companies that already own data centers may be able to charge more for their use.",
+                  "text": "Who stands to gain most from this shift in public opinion? What reason might they have to shape it?",
                   "textStyle": {
-                    "fontSize": 2025,
+                    "fontSize": 2100,
                     "fill": {
                       "type": 1,
                       "color": {
@@ -9712,7 +8905,7 @@
                 }
               ],
               "textStyle": {
-                "fontSize": 2025,
+                "fontSize": 2100,
                 "fill": {
                   "type": 1,
                   "color": {
@@ -9775,7 +8968,7 @@
                 "runs": [
                   {
                     "id": "",
-                    "text": "Oregon’s vote settled the fate of one proposal. The broader economic outcome depends on what happens elsewhere. If another community hosts the project, some of its benefits and costs move there. If new construction slows widely while demand remains strong, companies that already own operating sites may gain bargaining power when leases renew. An owner can benefit from that outcome regardless of who organized the opposition.",
+                    "text": "Oregon’s vote changed the outcome for one proposed campus. A project that relocates takes potential jobs and tax revenue to another community. If many projects stall and demand stays high, the owners of existing centers may gain bargaining power as leases come up for renewal. The shift in public opinion raises a broader question about who gains most and what they stand to gain by influencing the debate.",
                     "citations": [],
                     "reviewMarkIds": []
                   }

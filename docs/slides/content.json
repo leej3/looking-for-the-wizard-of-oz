@@ -100,28 +100,16 @@
     ]
   },
   {
-    "notes": "A town can decline a proposal. If the developer finds another site, construction jobs and potential tax revenue move with the project. The new host also takes on demands for land and electricity. Local tax agreements affect the size of the benefit.\n\nIf enough projects stall and demand for computing holds, a company that already controls powered space may face fewer competing sites when negotiating a lease. An existing fixed-price lease can delay any gain until renewal. This possible benefit does not establish that an owner backed efforts to stop construction.\n\nSources and credits\nhttps://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp\nhttps://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm",
-    "text": [
-      "Who gains if a town says no?",
-      "If the project moves",
-      "Another town could gain construction jobs and tax revenue. It would also supply the land and power.",
-      "If fewer centers get built",
-      "If demand holds, owners of existing data centers face less competition. They may be able to charge more when leases come up for renewal.",
-      "Virginia fiscal review",
-      "Lease economics · SEC"
-    ]
-  },
-  {
-    "notes": "Oregon’s vote settled the fate of one proposal. The broader economic outcome depends on what happens elsewhere. If another community hosts the project, some of its benefits and costs move there. If new construction slows widely while demand remains strong, companies that already own operating sites may gain bargaining power when leases renew. An owner can benefit from that outcome regardless of who organized the opposition.\n\nThe photograph shows the Ashtabula substation in Ohio. Photo by jbthemilker, licensed under CC BY-SA 4.0.\n\nSources and credits\nhttps://www.aepohio.com/company/about/rates/data-center-tariff/\nhttps://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm\nhttps://commons.wikimedia.org/wiki/File:Ashtabula_substation.png\nhttps://creativecommons.org/licenses/by-sa/4.0/\nOregon vote and developer response: https://www.13abc.com/2026/11/05/vantage-data-centers-says-it-will-not-move-forward-after-oregon-voters-approve-issue-25-ban/",
+    "notes": "Oregon’s vote changed the outcome for one proposed campus. A project that relocates takes potential jobs and tax revenue to another community. If many projects stall and demand stays high, the owners of existing centers may gain bargaining power as leases come up for renewal. The shift in public opinion raises a broader question about who gains most and what they stand to gain by influencing the debate.\n\nThe photograph shows the Ashtabula substation in Ohio. Photo by jbthemilker, licensed under CC BY-SA 4.0.\n\nSources and credits\nhttps://www.aepohio.com/company/about/rates/data-center-tariff/\nhttps://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm\nhttps://commons.wikimedia.org/wiki/File:Ashtabula_substation.png\nhttps://creativecommons.org/licenses/by-sa/4.0/\nOregon vote and developer response: https://www.13abc.com/2026/11/05/vantage-data-centers-says-it-will-not-move-forward-after-oregon-voters-approve-issue-25-ban/",
     "text": [
       "Ohio tariff",
       "Lease economics · SEC",
       "Photo: jbthemilker",
       "CC BY-SA 4.0",
-      "Stopping construction can benefit those who built first",
-      "In Oregon, Ohio, voters stopped a proposed data center.",
-      "A single project can move. The jobs, tax revenue and demand for electricity may move with it.",
-      "If construction slows across the country and demand for AI keeps growing, companies that already own data centers may be able to charge more for their use."
+      "Who gains when fewer data centers get built?",
+      "In Oregon, Ohio, residents organized and stopped a proposed data center.",
+      "If fewer centers get built and demand stays high, companies that already own them could charge more.",
+      "Who stands to gain most from this shift in public opinion? What reason might they have to shape it?"
     ]
   }
 ]
