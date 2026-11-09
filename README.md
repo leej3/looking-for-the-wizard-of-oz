@@ -1,7 +1,9 @@
 # Looking for the Wizard of Oz
 
 [View the public presentation](https://leej3.github.io/looking-for-the-wizard-of-oz/).
-Each slide includes expandable notes and references.
+Use the arrow keys or navigation buttons to change slides, Esc for an overview, and S or Presenter for the speaker window.
+Notes & sources opens the references for the current slide.
+The site bundles Reveal.js 5.2.1 and its speaker notes plugin.
 The website reads the current nine-slide export in `docs/slides`.
 Rebuild its HTML with `python3 scripts/build_public_site.py`.
 
